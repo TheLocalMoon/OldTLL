@@ -1,0 +1,11 @@
+monster_cakehorn_adult+undof_monster_jamboree=monster_spamton/1/00:00:00
+undof_monster_thrumble+monster_keytrus_adult=undof_monster_jamboree/13/23:00:00
+
+undof_monster_fwog+undof_monster_jamboree=undof_monster_test/100/00:00:00
+undof_monster_test+undof_monster_jamboree=undof_monster_phangler/100/00:00:05
+undof_monster_thrumble+monster_claramel_adult=monster_flootfly_adult/100/00:00:01
+monster_flootfly_adult+undof_monster_test=monster_spamton/80/00:00:00
+
+monster_oaktopus_adult+monster_dandidoo_adult=monster_frondley_adult/9/10:00:00
+
+monster_quibble_adult+monster_bannik_adult=monster_phangler_adult/10/06:00:00
