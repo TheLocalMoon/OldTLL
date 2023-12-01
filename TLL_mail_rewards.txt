@@ -1,0 +1,38 @@
+reward@url@https://media.discordapp.net/attachments/924689848911142932/927640666295648296/funne.png;everyone;custom@TLL Status Update@Checking in!@Allo there everyone! Again. Happy VERY VERY VERY VERY LATE Easter! HAHA No. But hey! It’s been a while. You probably heard that tll is moving to a 2D format- that’s going great right now! No news on when the release is, but please bear with us. In the meanwhile, here are some fun goodies. Also be sure to join our discord (linked on download site).                                               Thanks for your patience, Azuran;diamonds=50/add,food=2500/add,coins=1000/add,monster=monster_tweedle_adult*lvl=5*sublvl=0*name=Happy Monstering*costume=costume_1*statue=false*savedeggs=*island=EM;newsUpdateOne
+
+reward@url@https://media.discordapp.net/attachments/924689848911142932/927640666295648296/funne.png;everyone;custom@Minor Update@Warning about fake downloads.@Oop! I didn’t expect to be sending another mailbox message but oh well. Just wanted to say that many people have been using an unofficial/fake download. Therefore… IF YOU HAVE DOWNLODED TLL FROM ITCH.IO OR GAMEJOLT, YOU HAVE NOT DOWNLOADED FROM US. On itch.io, there is a user posing as Raw Zebra, but that is NOT raw zebra, as our itch page was taken down a while ago. If you want the ACTUAL download for future use whe 2D TLL releases, please visit our site at https://sites.google.com/view/msm-tll, thanks. TLDR itch.io download fake, pls use actual download on the Google site, and get hyped for the 2D TLL release later this year! Thanks again, Azuran;diamonds=2/add,food=2500/add;newsUpdateTwo
+
+
+
+reward@img@easter;everyone;custom@Happy Late Easter@Thanks for bearing with us!@Allo there everyone! Happy VERY LATE Easter! We hope that the long wait for content hasnt been terrible. We're working on getting the game over to 2D to make mobile work right. For now though, take these little gifts: thank you all so much for playing MSM:TLL!;diamonds=25/add,food=2500/add,coins=5000/add,monster=monster_frondley_adult*lvl=5*sublvl=0*name=Happy Easter*costume=costume_2*statue=false*savedeggs=*island=EM;53215
+
+reward@img@giftbox;TO2gQxiQc9hnx6Q9lX6crYfVxMZxOR;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;diamonds=25/add;12277
+
+reward@img@giftbox;t68WDZDeXD2wDmLL;custom@Contest Reward!@Congrats on winning the contest!.@Contest Reward!;diamonds=15/add;artcontest1
+
+reward@img@giftbox;BA1Bpcyomdd3cStKQfPSSyuz;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_flootfly_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;186083
+
+
+
+reward@img@easter;YHBQyP72jEyqTlXrnQ9o40JVpkX;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_frondley_adult*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;53215hj
+
+
+
+
+
+
+reward@img@giftbox;1X9vZCrR1C4kxVmTDCC9X3j4G6yXN3fM;custom@For MSMPokeGamer@Thanks for trying out our game!@Here's a little gift to start your monstering journey, and we hope you enjoy MSM:TLL! -Azu;diamonds=250/add,food=500/add,monster=monster_toejammer_adult*lvl=2*sublvl=0*name=Jammed Toes*costume=costume_2*statue=false*savedeggs=*island=EM;PokeGamerGift
+
+clear@img@clear;everyone;finalclear1
+
+reward@url@https://media.discordapp.net/attachments/730110993375428649/938945367490322523/unknown.png;gAbI9SVoBjAhEYA3;custom@Breeding Structure@Incoming!@Missing a breeding structure? Not anymore!;monster=monster_frondley_adult*lvl=1*sublvl=0*name=dad*costume=a0*statue=false*savedeggs=*island=EM;26253sddd
+
+clear@img@clear;VIjnYzpfz04DZIzRKZ9MfWklOLza2oWb6;clearsendinguser_discord_1
+
+clear@img@giftbox;VeyMEfueph;41832
+
+message@url@https://cdn.discordapp.com/attachments/924689848911142932/927640666295648296/funne.png;RcwnjDxqDowcUGZm;custom@Breeding Structure@Please Read@Allo there- You said you couldnt find breeding structure? Its in the market, under structures. If theres nothing there I can send you one through the mail. -Azu;10073
+
+clear@img@giftbox;uu3ij18boKMf4OGozLujvF36AP6ElD;6789
+
+

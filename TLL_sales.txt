@@ -1,0 +1,26 @@
+monster__adult/percent/50
+monster__adult/typein/coins=2
+
+deco_tlTotem/percent/80
+deco_heart_tree/percent/80
+deco_tongue_tree/percent/80
+deco_upside-tree/percent/80
+deco_bucket/percent/80
+deco_flowers/percent/80
+deco_jar/percent/80
+
+ monster_bannik_adult/percent/80
+ monster_coral_adult/percent/80
+ monster_dandidoo_adult/percent/80
+ monster_flootfly_adult/percent/80
+ monster_kikimora_adult/percent/80
+ monster_leshy_adult/percent/80
+ monster_likho_adult/percent/80
+ monster_oaktopus_adult/percent/80
+ monster_potbelly_adult/percent/80
+ monster_quibble_adult/percent/80
+ monster_spunge_adult/percent/80
+ monster_toejammer_adult/percent/80
+ monster_tweedle_adult/percent/80
+ monster_vodyanoy_adult/percent/80
+monster_yaga_adult/percent/80
