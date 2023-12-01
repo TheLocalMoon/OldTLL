@@ -1,0 +1,493 @@
+-----New stuff
+name_monster_phangler_adult=Micropoon
+bio_monster_phangler_adult=Het lijkt er op dat de lauwe wateren rond het moeras een herbergzaam milieu vormen. Vele monsters komen naar het oppervlak om er van te genieten, ondermeer de Waddie, de Banno, en meer. Observatie heeft ons verteld dat sommige monsters af en toe de reis over land maken! Een voorbeeld is de Micropoon, deze zal wel een avontuur gehad hebben om van het strand, door het Groenblijvende Woud, het water te bereiken. Volgens de Micropoon is het op één na hun favoriete plek ter wereld- en wie kan het hen kwalijk nemen?
+
+d_furcorn_marsh_1=Nou, kijk eens aan!
+d_furcorn_marsh_2=Er is hier iets gebeurd.
+d_furcorn_marsh_3=Het is nu anders.
+d_theremind_marsh_1=Hahaaaaaaaa Grappiiiiig.
+btn_buy=Kopen
+
+-----Old stuff
+str_popup_bakery_purchace=Weet je zeker dat je <food_amount> voedsel wilt kopen voor <amount> <item>?
+str_popup_bakery_speedup=Wil je het bakken voltooien voor <amount> diamant(en)?
+str_popup_upgrade_island=Weet je zeker dat je <island_name> wilt uitbreiden voor <amount> <item>?
+btn_mail=Postbus
+btn_mail_view=BEKIJK
+btn_mail_collect=Opeisen
+btn_mail_accept=Accepteren
+btn_mail_deny=Weigeren
+btn_mail_ok=Oké
+str_mail=Postbus
+str_mail_creator_gift=Van het TLL Personeel:
+str_mail_creator_gift_title=Binnenkomend diamant-geschenk!
+str_mail_creator_gift_desc=Je hebt een geschenk van het TLL personeel gekregen - vergeet niet het op te eisen!
+
+str_mail_gift=Je hebt een geschenk gekregen!\nHet is:
+str_mail_gift_title=Binnenkomend diamant-geschenk!
+str_mail_gift_desc=Je hebt een geschenk gekregen - vergeet niet het op te eisen!
+
+str_mail_reward_gift=Je hebt de Giveaway gewonnen!\nHier is jouw beloning:
+str_mail_reward_gift_title=Binnenkomende Giveaway beloning!
+str_mail_reward_gift_desc=Je hebt een beloning verdiend! Vergeet niet het hier op te eisen, en maak er goed gebruik van. Veel plezier met Monsteren!
+
+str_mail_holiday_gift=Fijne vakantiedagen\nWe hebben een geschenk voor de gelegenheid:
+str_mail_holiday_gift_title=Binnenkomend vakantie-cadeau!
+str_mail_holiday_gift_desc=Fijne vakantiedagen! En de beste manier om deze magische tijd van het jaar te vieren is om liefde te verspreiden met geschenken- zoals deze, gevoegd bij dit bericht!
+
+str_mail_holiday_christmas_Catholic_gift=Vrolijk Kersfeest!\nHier is jou kerstcadeau:
+str_mail_holiday_christmas_Catholic_gift_title=Vrolijk Katholiek Kerstfeest!
+str_mail_holiday_christmas_Catholic_gift_desc=Vrolijk Katholiek Kerstfeest! Hoe je het ook viert, maak er een vrolijke dag van! Hier is een kleinigheidje om je op weg te helpen...
+
+str_mail_holiday_christmas_Orthodox_gift=Vrolijk Kersfeest!\nHier is jou kerstcadeau:
+str_mail_holiday_christmas_Orthodox_gift_title=Vrolijk Orthodox Kerstfeest!
+str_mail_holiday_christmas_Orthodox_gift_desc=Vrolijk Orthodox Kerstfeest! Hoe je het ook viert, maak er een vrolijke dag van! Hier is een kleinigheidje om je op weg te helpen...
+
+str_mail_holiday_hanukkah_gift=Fijne Hanukkah!\nHier is een geschenk voor de gelegenheid:
+str_mail_holiday_hanukkah_gift_title=Fijne Hanukkah!
+str_mail_holiday_hanukkah_gift_desc=Fijne Hanukkah toegewenst! Kandelara heeft de Menorah aangestoken, Mammoett geniet van de festiviteiten, en JIJ hebt wat extra's gekregen!
+
+str_mail_holiday_valentines_gift=Fijne Valentijnsdag!\nHier is een geschenk voor de gelegenheid:
+str_mail_holiday_valentines_gift_title=Fijne Valentijnsdag!
+str_mail_holiday_valentines_gift_desc=Een fijne Valentijnsdag toegewenst door Raw Zebra and the MSM:TLL Ontwikkelaars! Maak er een mooie dag van en geniet van het bijgevoegde geschenk!
+
+str_mail_holiday_patricks_gift=Gelukkig St. Patrick's Day!\nHier is een geschenk voor de gelegenheid:
+str_mail_holiday_patricks_gift_title=Gelukkig St. Patrick's Day!
+str_mail_holiday_patricks_gift_desc=Het is jouw geluksdag- wat geschenken om St. Patrick's Day te vieren!
+
+str_mail_holiday_easter_gift=Fijne Paasdag(en)!\nHier is een geschenk voor de gelegenheid:
+str_mail_holiday_easter_gift_title=Fijne Paasdag(en)!
+str_mail_holiday_easter_gift_desc=Een fijne Paasdag(en) toegewenst door Raw Zebra and the MSM:TLL Ontwikkelaars! Maak goed gebruik van je speurkunsten om uit te vogelen hoe je deze beloning openkrijgt...
+
+str_mail_holiday_summer_gift=Fijne Zomervakantie!\nHier is een geschenk voor de gelegenheid:
+str_mail_holiday_summer_gift_title=Bevat een zonnige verassing!
+str_mail_holiday_summer_gift_desc=Fijne Summersong! Haal hier je zonnige verassing op!
+
+str_mail_holiday_halloween_gift=Een spookachtige Halloween toegewenst!\nHier is een geschenk met wat zoetigheid voor de gelegenheid:
+str_mail_holiday_halloween_gift_title=Bevat een griezelige verassing!
+str_mail_holiday_halloween_gift_desc=BOE! Ponkelet heeft wat in het diepe ondergronds gegraven en deze diamanten voor jou gevonden!
+
+str_mail_holiday_muertos_gift=Gelukkige Dag van de Doden!\nHier is een geschenk voor de gelegenheid:
+str_mail_holiday_muertos_gift_title=Dag van de Doden Diamanten levering!
+str_mail_holiday_muertos_gift_desc=Een heerlijke Dia de los Muertos toegewenst, vier zowel Mexicaanse cultuur als andere culturen! Neem dit geschenk als beloning omdat je zo'n geweldig persoon bent! -Azuran en de andere TLL Ontwikkelaars
+
+str_mail_clear_data=Hallo daar! Dit bericht is om jou ervan op de hoogte te stellen als jouw spel problemen tegenkomt met betrekking tot voorgaande versies van het spel en jou opslagbestand (Monsters verdwijnen of verschijnen rechtsboven enz.). Als je je opslaggegevens wilt resetten, klik dan op Accepteren. Het spel zal dan worden gesloten, en het zal gereset worden wanneer je het weer opstart.
+str_mail_clear_data_title=Bevestig alseblieft dat je je voortgang wenst te wissen:
+str_mail_clear_data_desc=Om je voortgang in MSM:TLL PERMANENT TE VERWIJDEREN, druk op de knop aan de rechterkant! Bedankt voor het spelen en we kunnen niet wachten om te zien hoe je deze keer aan de gang gaat :D
+
+name_island_Candy=Snoep Eiland
+bio_island_Candy=Snoep Eiland bio
+
+btn_book=Collectie
+
+name_monster_stone_6=Blikapella
+bio_monster_stone_6=Blikapella bio
+
+name_monster_stone_7=Pluismuis
+bio_monster_stone_7=Pluismuis bio
+
+name_struc_builder=De Versmelteraar
+bio_struc_builder=De Versmelteraar bio
+(cahnged the name so cahnge it too. Don't just add. Replace)
+
+name_monster_spamton=Spamton G. Spamton
+bio_monster_spamton=Geef me jouw [kromer] of lijd [eeuwige poepie]
+(not nececary)
+
+name_undof_monster_test=Kwijd
+bio_undof_monster_test=Kwijd
+costume_undof_monster_test_2=Helemaal plat.....Gewoon plat
+(not nececary)
+
+(new names. Replace)
+name_monster_cakehorn_adult=Hagelhoorn
+name_monster_jawbreaker_adult=Klepklopper
+name_monster_choccosour_adult=Blaschuit
+
+str_popup_breeding_congrats=Gefeliciteerd! Het is een:\n<monster_name>
+str_popup_breeding_whattodo=Wat wil je ermee doen?
+str_popup_breeding_speedup=Wil je het kweken voltooien voor <amount> diamant(en)?
+
+
+btn_speedup=Versnellen
+
+name_monster_stone_5=Tannenstokkerberg
+bio_monster_stone_5=Tannenstokkerberg bio 
+
+
+name_monster_gumtromp_adult=Gumtromp
+bio_monster_gumtromp_adult=Gumtromp bio
+
+name_monster_keytrus_adult=Citroets
+bio_monster_keytrus_adult=Citroets bio
+
+name_monster_koodahcane_adult=Koodahcane
+bio_monster_koodahcane_adult=Koodahcane bio
+
+name_monster_marshflamo_adult=Marshflamo
+bio_monster_marshflamo_adult=Marshflamo bio
+
+name_monster_claramel_adult=Klaramel
+bio_monster_claramel_adult=Klaramel bio
+
+name_undof_monster_noggin=Hersenpan
+bio_undof_monster_noggin=Hersenpan bio
+costume_undof_monster_noggin_2=Rock candy
+
+name_undof_monster_toejammer=Tenenmepper
+bio_undof_monster_toejammer=Tenenmepper bio
+costume_undof_monster_toejammer_2=Socks of Splendor
+
+name_undof_monster_kayna=Kayna
+bio_undof_monster_kayna=IÃ¢â‚¬â„¢m Kanye
+
+name_undof_monster_jamboree=Jam boree
+bio_undof_monster_jamboree=Jam boree bio
+
+name_undof_monster_thrumble=Thrumble
+bio_undof_monster_thrumble=Thrumble bio
+
+name_undof_monster_stogg=Empideino
+bio_undof_monster_stogg=Empideino bio
+
+name_undof_monster_phangler=Micropoon
+bio_undof_monster_phangler=I SING
+
+name_undof_monster_fwog=Kwikker
+bio_undof_monster_fwog=wiggle
+
+btn_craft=Craft
+str_level_limit=Je kan een monster niet voederen boven niveau 20.
+str_popup_breeding_both=Je moet twee monsters kiezen voor het kweken.
+str_enter_name=Kan niet leeg zijn...
+str_nocostume=Geen kostuum
+
+costume_monster_tweedle_adult_2=Chill chick
+
+costume_monster_toejammer_adult_2=There's always room
+costume_monster_toejammer_adult_3=A sophisticated droplet
+costume_monster_toejammer_adult_4=Legal alien
+
+costume_monster_flootfly_adult_2=Faerie Berry
+
+costume_monster_dandidoo_adult_2=Hot chick
+
+costume_monster_oaktopus_adult_1=Doc Oak
+costume_monster_oaktopus_adult_2=Serious business
+
+costume_monster_kikimora_adult_2=Big Shot
+
+costume_monster_spunge_adult_2=Rusty sponge
+
+costume_monster_bannik_adult_2=MONEY!
+
+costume_monster_frondley_adult_2=The brave and the bald
+costume_monster_frondley_adult_3=Cerberus toy
+costume_monster_frondley_adult_4=Pretty & Pampered
+costume_monster_frondley_adult_5=Ring-ring!
+
+costume_monster_yaga_adult_2=Sweetstaff
+
+costume_monster_vodyanoy_adult_2=I wanna fly
+costume_monster_vodyanoy_adult_3=Burgundy fog
+
+costume_monster_likho_adult_2=Super-Elasticiteit
+----Rubber bands phinie sand ferb song
+costume_monster_likho_adult_3=Of anders!!
+
+costume_monster_leshy_adult_2=Spuh-Getty
+costume_monster_leshy_adult_3=Fir Sir
+
+mane_island_knottsurr=Knottsurr Eiland
+bio_island_knottsurr=Knottsurr Eiland bio
+
+name_monster_stone_1=Knottsurr boom
+bio_monster_stone_1=Knottsurr boom bio
+
+name_monster_stone_2=Bay
+bio_monster_stone_2=Bay bio
+costume_monster_stone_2_2=Toerkse ambassadeur
+
+name_monster_stone_3=Zielxsvat
+bio_monster_stone_3=De Zielxsen[Zielen] - Wraakzuchtige psyches, losbandig van geest en zeer wilskrachtig. De taak ze te hoeden moet aan goede handen toevertrouwd worden. Of een goede hand in dit geval.\nHun stevige vingers and onmeetbare kracht maakt hen perfect voor het werk. Toch hebben zelfs zij het moeilijk de rusteloze zielxsen in toom te houden.
+
+name_monster_stone_4=BoOoo
+bio_monster_stone_4=BoOoo bio
+costume_monster_stone_4_2=Rootithumpie
+
+str_item_nottsurr-rock=Knottsurr edelsteen
+str_item_nottsurr-wool=Wol
+str_item_nottsurr-wood=Knottsurr hout
+str_item_nottsurr-bone=Bot
+str_item_nottsurr-darkmatter=Zielxs energie
+
+
+btn_play=Spelen
+btn_exit=Verlaten
+btn_move=Verplaatsen
+btn_feed=Voederen
+btn_flip=Omdraaien
+btn_place=Plaatsen
+btn_cancel=Annuleren
+btn_zapper_eggs_list=Inventaris
+btn_buy_more=Meer kopen
+btn_info=Info
+btn_map=Kaart
+btn_settings=Instellingen
+btn_feedback=Feedback
+btn_mute=Dempen
+btn_sell=Verkopen
+btn_zap_into_zapper=Zappen
+btn_store=Markt
+btn_store_monsters=Monsters
+btn_store_decos=Decoraties
+btn_store_strucs=Bouwwerken
+btn_breed_start=Kweken
+btn_breed=Kweken
+btn_send=Verzenden
+btn_save_island_data=Opslaan
+btn_load_island_data=Laden
+btn_clear_island_data=Ontruimen
+btn_promotion_visit=Bezoeken
+btn_copy_user_id=Kopieer GebruikersID
+btn_reset_currency=Valuta resetten
+btn_performance=Geoptimaliseerde modus
+btn_costume=Kostuums
+btn_fullscreen=Volledig scherm
+btn_repeat=Herhalen
+btn_collect_all=Alles verzamelen
+btn_bake=Bakken
+
+str_characters_limit=3000 karakter limiet
+str_feedback=Feedback en bug rapport
+str_feedback_hint_text=Tekst toevoegen...
+str_not_enough_currency=Je hebt niet genoeg <item>!\nSpeel het spel en verzamel meer <item> om de transactie te voltooien.
+str_item_diamonds=Diamanten
+str_item_coins=Munten
+str_item_food=Voedsel
+str_monster_level=niveau:<level>
+str_monster_level_max=Max
+str_island_list=Kies een eiland
+str_loading_asset_bundles=Activabundels laden
+str_loading_names=Namen ophalen
+str_loading=Laden
+str_user_id_pre=Jouw GebruikersID
+str_banned_title=Je was verbannen!
+str_banned=Dit kan zijn vanwege ongepast gedrag of hacken. Als je denkt dat dit een vergissing is, neem dan contact met ons op.
+str_offline=Je bent offline.\nMaak opnieuw verbinding met het internet en heropen het spel.
+str_loading_upadte_id=Update identificatie laden
+str_breeding_monster_1=Monster 1
+str_breeding_monster_2=Monster 2
+str_popup_mail_claim_monster_error=Dit monster is niet naar dit eiland verzonden. Eis het op in <island_name>.
+str_sale=UITVERKOOP!
+
+-----monsters
+name_monster_potbelly_adult=Bakbuikje
+bio_monster_potbelly_adult=Een volwassen Bakbuikje is luid en extravert, voortdurend onzin uitkramend tegen wie het kan horen.  Hoewel de meesten graag blijven luisteren, is het oppassen met deze brabbelaar. Het kan zo maar uit de pot springen, met alle onbedoelde gevolgen van dien. Gelukkig weten de monsters nu wel om of uit de buurt te blijven, of het Bakbuikje vriendelijk te verzoeken op te passen waar het zich wortelt.
+costume_monster_potbelly_adult_1=Leafy L
+costume_monster_potbelly_adult_2=Wally W
+
+name_monster_tweedle_adult=Flierefluiter
+bio_monster_tweedle_adult=Volwassen Flierefluiters staan bekend veel te migreren van eiland naar eiland. Soms om hun vrienden te bezoeken, maar soms ook om andere plekken te ontdekken en kennis te vergaren met behulp van hun medemonsters. Zonder twijfel een aviare avonturist!
+
+name_monster_toejammer_adult=Tenenmepper
+bio_monster_toejammer_adult=Tenenmeppers hebben een bruisende persoonlijkheid. Deze monsters zijn zeer ervaren zwemmers en zeer ervaren feestgangers! Ze worden vaak uitgenodigd op partijtjes en picknicks door Fluitvliegen, en weten het altijd gezellig te maken! 
+
+name_monster_flootfly_adult=Fluitvlieg
+bio_monster_flootfly_adult=De mystieke Fluitvlieg is het meest voorkomend in het Verloren Landschap, en wordt overal gezien als het meest vriendelijke monster. Fluitvliegen geven graag theekransjes en op de meest bizarre locaties ook! Toch worden uitnodigingen vereerd en vrolijk geaccepteerd, het is dan wel een geweldige plek voor gesprek en gebabbel.
+
+name_monster_dandidoo_adult=Parbadoe
+bio_monster_dandidoo_adult=Zoals oesters door warme stromingen van de zee door het diepe worden gedragen, zo worden Parbadoes gedragen door de wind. Hun migraties zijn afhankelijk van luchtstromingen sinds de natuur niet aardig genoeg was ze vleugels te gunnen. Ze kunnen ook de lucht door hun lichamen geleiden en uitstoten in krachtige stromen van afgestemde (onder)tonen, wat de "doetjes" en "dietjes" van hun gezang verklaart.
+
+name_monster_quibble_adult=Kibbel
+bio_monster_quibble_adult=De Kibbel ziet er van buiten sierlijk uit, maar dat verbloemt de strijd erachter. Het is een bijna constant gekibbel tussen de twee koppen, die doorgaans tegenstrijdige meningen hebben over de laatste trends of over een of andere triviale kwestie. Eens wou de linker Kibbel patat bestellen, terwijl de ander verlangde naar een milkshake... gevolgd door chaos. Maar uiteindelijk maken de twee het altijd wel weer goed, als echte broers of zussen. Oh ja, in dit geval hadden ze uiteindelijk patat ondergedompeld in een milkshake besteld. Een... unieke overeenstemming.
+
+name_monster_kikimora_adult=Harpijger
+vargan+prow+crow
+bio_monster_kikimora_adult=Liefhebber van de jacht, het melodische "yah-ha-ha!" van de Harpijger galmt door alle hoeken van het Groenblijvend Moeras. Het gebruikt zijn roep en lange neusharp om jonge Kwikkers naar zijn uithoek van het moeras te lokken, hoewel dat vaker mislukt dan het zou willen. In werkelijkheid slagen deze pogingen er vaker in het doelwit juist af te schrikken, wat de Harpijger Kwikkerloos en alleen achterlaat. Het is best triest, want het zoekt alleen maar nieuwe klanten om zijn eigengemaakt snoepgoed uit te proberen!
+
+name_monster_oaktopus_adult=Eiktopus
+bio_monster_oaktopus_adult=De Eiktopus zit barstensvol met wijsheid over de wereld, die het graag met de wereld deelt. Ze hebben bijna altijd wel een antwoord voor de grootste vragen van het leven; "Waarom is de lucht blauw?", "Is water nat?", en vooral: "Is mayonaise een instrument?" (Het antwoord is niet eenduidig, er is geen monster van mayonaise). Soms beweren ze de meest bizarre dingen, dat eilanden ooit door torenhoge wezens door de monsterwereld gedragen werden. Tss, ja vast. Verder zijn Eiktopussen meestal in warmwaterbronnen te zien, of voorovergebogen in een goed boek.
+
+name_monster_spunge_adult=Spuns
+bio_monster_spunge_adult=Volgroeide Spunzen zijn zeer getalenteerde fluiters, ze kunnen zo hard blazen dat ze zelfs monsters naar verre eilanden kunnen slingeren! Zorg maar dat je dekking zoekt wanneer een Spuns zijn verjaardagskaarsjes uitblaast.
+
+name_monster_bannik_adult=Banno
+bio_monster_bannik_adult=Banno is een zanger van het legendarische Krabbenkoor, en sinds een lange tijd heeft hij zijn tijd doorgebracht in het koude diepe van de ocean. Helaas was het te koud voor zijn heetwater-lovende lichaam! In plaats van te verhuizen naar bijvoorbeeld een geiser, koos hij ervoor dicht bij zijn vrienden te blijven, gebruikmakend van een oneindig kokende emmer voor comfort. Zijn knalrode buik ziet er verontrusted uit, maar geen zorgen- Volgens Banno is het zijn natuurlijke kleur die naar buiten komt na het wegwassen van duizend jaar aan zeevuil.
+
+name_monster_coral_adult=Choraal
+bio_monster_coral_adult=Huh? Dit lijkt een doodgewone boom te zijn, maar daar zakt mijn broek van af, dit zijn discipelen van het Krabbenkoor, het Choraal! Deze kleintjes zijn meester in natuurlijk bedrog en gebruiken een boomachtig figuur als bescherming en schuilplek tegen grotere monsters. Ook al hebben deze vaak geen kwaad in de zin en willen ze alleen maar hallo zeggen! Maar wegens hun introverte aard, zal een Choraal een krachtige klap creëren met hun vermomming als iemand te dichtbij komt. Het is instinctief, we kunnen het hen niet echt kwalijk nemen.
+
+name_monster_leshy_adult=Dulsylvaan
+bio_monster_leshy_adult=De gesneden Dulsylvaan, een wezen van hout en verweer dat door een harde kern bij elkaar wordt gehouden, ziet er zeker lomp uit op het eerste gezicht. Spreken doet het niet, fronsen doet het altijd, zijn slechte humeur is niet meer dan omstandigheid, aangezien zijn mond al tijden in die vorm vastzit. In werkelijkheid leeft het echte monster in de diertjes die op de verheven takken van het wezen verblijven. Deze zogenaamde "Sylvelingen" laten door gaten af te dekken, lucht door de takken van hun voorouder, wat de Dulsylvaan laat communiceren met zijn buren. Wanneer een Dulsylvaan op mystieke wijze in een dennenappel verandert, zullen de Sylvelingen opgroeien tot eigen Dulsylvanen.
+
+name_monster_frondley_adult=Varenvriend
+bio_monster_frondley_adult=De Varenvriend is een opmmmmmmmmmmmerkelijk exemplaar. Zijn gelatineuze lichaamsbouw en tenen doet men denken aan een vergelijkbaar monster, maar deze twee soorten hebben zich volledig afzonderlijk ontwikkeld. Hun buitenaards maar sereen gebrom galmt van eiland naar eiland, wat de aanwezigheid van een Varenvriend overal bekend maakt. Sommige monsters nemen zelfs deze zoemende deuntjes op als slaapliedjes! Verder houden Varenvrienden hun wierige haar graag in model, strevend naar de perfecte balans voor hun bolvormige schedels.
+
+name_monster_yaga_adult=Stompa
+bio_monster_yaga_adult=Er is niet veel bekend over het mistige moeras diep in het hart van het Groenblijvend Woud, maar legenden spreken over een vreemd monster dat waakt over de monsters en hun lied leidt. En wel, hier is het dan! De Stompa is nog beter in het recyclen dan een Congel en gebruikt alles wat het in de natuur kan vinden voor zijn muziek. Al maakt het wel soms uitzonderingen op deze regel, wat blijkt uit de... potten en pannen aan zijn stoepa? We weten er nog maar weinig over, en de Stompa wil dat liever zo houden. Met zijn mysterieuze staf behoedt het de geheimen van het moeras.
+
+name_monster_maulch_adult=Haksmoel
+bio_monster_maulch_adult=Van onderen! De Haksmoel is hier! Het overgrote deel van zijn dagen graaft het zich ondergronds, tot het vol energie omhoog komt, klaar om van de omliggende aarde een dansvloer te maken! Zijn kunsten bevatten onder meer de "Bodembeving", de "Glibberglijbaan", en de BEUUUUUUUUUUUUUUUUUURG. Als je die laaste probeert, is er een kleine kans dat je drie dagen in slaap valt. De Haksmoel doet het toch want het boeit de Haksmoel niet wat jij riskant vindt.
+
+name_monster_vodyanoy_adult=Waddie
+bio_monster_vodyanoy_adult=Diep onderaan de troebele oceaanbodem van het verloren landschap leven duizenden monsters van het element water, maar kies je ervoor een eindje te zwemmen bij de plassen van het Groenblijvend Moeras, zou je wel eens het zwoele "waai" geluid van een Waddie kunnen horen. Deze lichtblauwe bultrug heeft wat weg van een kloddervis en kan zowel op land als in de zee leven dankzij zijn meermin-achtige staart. Het tikt graag op zijn lichtgevende buikschubben om de weg te kunnen vinden in de nacht. Wat hem echter vaak bezighoudt is zijn eigen zonderlinge bestaan... is het nou een kloddervis??? Een meermin??? We zullen er mogelijk nooit achter komen!!!
+
+name_monster_likho_adult=Snater
+bio_monster_likho_adult=Zie je een Snater, onthou dan dit: Snaters zijn goede snuiters! Deze tuimelaars verzamelen allerlei soorten planten gedurende hun tuimeltripjes, en geven ze vaak weg aan andere, zelfs al waarderen ze het soms meer dan de ontvanger. En stopt een Snater met tuimelen, dan bereid het een... "prachtig" lied voor zijn kameraden, wat meestal zijn publiek doet gillen: "LAAT HET OPHOUDEN". Geen idee waar dat op slaat.
+
+name_monsterYoung_flootfly=Jonge Fluitvlieg
+bio_monsterYoung_flootfly=Jonge Fluitvlieg bio
+
+name_monsterYoung_theremind=Jonge Koortex
+bio_monsterYoung_theremind=Jonge Koortex bio
+
+name_monsterYoung_fluoress=Jonge Fluork
+bio_monsterYoung_fluoress=Jonge Fluork bio
+
+name_monsterYoung_clackula=Jonge Klakula
+
+name_monsterYoung_osstax=Jonge Ostapaal
+
+name_monsterYoung_brump=Jonge Brump
+
+name_monsterYoung_oaktopus=Jonge Eiktopus
+bio_monsterYoung_oaktopus=Jonge Eiktopus bio
+
+name_monsterYoung_yool=Jonge Jool
+
+name_monsterYoung_jeeode=Jonge Juwedel 
+
+name_monsterYoung_stogg=Jonge Empideino
+bio_monsterYoung_stogg=Jonge Empideino bio
+
+name_monsterYoung_schmoochle=Jonge Troetelaar
+bio_monsterYoung_schmoochle=Jonge Troetelaar bio
+
+-----decos
+name_deco_jar=Reserveonderdelen
+bio_deco_jar=Reserveonderdelen bio
+
+name_deco_jugler=Jongleertulp
+bio_deco_jugler=Jongleertulp bio
+
+name_deco_bucket=Listobbe
+bio_deco_bucket=Listobbe bio
+
+name_deco_upside-tree=Kapseis bessenboom
+bio_deco_upside-tree=Kapseis bessenboom bio
+
+name_deco_flowers=Bloemogen
+bio_deco_flowers=Bloemogen bio
+
+name_deco_dragoon=Gradonderschip
+bio_deco_dragoon=Gradonderschip bio
+
+name_deco_tongue_tree=Tong-yucca
+bio_deco_tongue_tree=Tong-yucca bio
+
+name_monster_dancer=De danser
+bio_monster_dancer=De danser is omgeven door vreemde dingen. Het vreemdste en misschien wel engste ding is......hoe.... kan je dit lezen?\nDit zou niet beschikbaar moeten zijn voor de algemene speler.....
+
+name_monster_cursed_adult=Het ding...
+bio_monster_cursed_adult=Oh wauw! Hoe kan je dit lezen? Tenzij je een tester van dit spel bent, weet ik niet hoe je dit.... ding op je eiland hebt gekregen. Ach ja!/nDit ding is alleen maar gemaakt om wat uit testen. Maar ik denk dat het tot een decoratie omgebouwd zal worden. Iets zoals een paal.
+
+name_deco_baloony=Ballonnie
+bio_deco_baloony=Ze noemen hem vervangende vriend. Eenzame monsters kunnen op elk moment terecht bij Ballonnie om hun verhalen met hem te delen. Onze "vriend" vloog vroeger vrij rond, de monsterwereld aan het ontdekken, maar hij kwam vast te zitten tussen twee stenen. Heen en weer wiegen is het enige wat hij nog kan doen. Niemand weet wie Ballonnie heeft gemaakt, maar het gerucht gaat dat hij lijkt op zijn schepper. Wie weet, misschien ontmoeten we hem op een dag.
+
+
+-----structures
+name_struc_breeding=Kweekstation
+bio_struc_breeding=Aanschouw het enige echte Kweekstation!!!\nMonsters van lang geleden hebben dit nuttige werktuig gebruikt om meer nieuwe Monsters te ontdekken. Dit dankzij de kracht van hun eieren en liefde, dat hen allemaal uniek maakt. Maar soms kan het Kweken een beetje onverwacht gaan en een andere versie van het monster produceren.... wie weet wat je zal krijgen???
+
+name_struc_bakery=Bakkerij
+bio_struc_bakery=Bakkerij bio
+
+name_struc_bass=Bas Machine
+bio_struc_bass=De Bas Machine is een geavanceerde samenkomst van kunst en technologie, afkomstig uit de tijd van het Grote Bourgondische Incident. Hoewel de kennis om meer te maken al lang verloren is, zijn er veel te vinden in de gebouwen van de Zwevende Stad. Deze vreemde machines zijn intelligenter dan enig ander wezen binnen het bekende rijk, en toch kunnen ze niet met de buitenwereld communiceren. Zoemende ondertonen is wat ze voortbrengen, hopend op begrip...
+
+-----islands
+name_island_EM=Groenblijvend Moeras
+bio_island_EM=Verborgen in de diepte van het "Groenblijvend Woud" ligt het altijd groeiende "Groenblijvend Moeras". Eeuwig gezegend door een betovering - boven de al heersende magie van het gebied - bloeit het drasland met sprookjesachtige wezens van vergeten verhalen. Het is bevestigd dat wie het moeras betreedt, de wereld niet meer hetzelfde ziet. Niet iedereen neemt genoegen met de veranderingen die de betovering van het Groenblijvend Moeras aan ze meegeeft. Wees dus voorzichtig, voetje voor voetje, want in het hart van het moeras is je lot donkerder dan het water en schimmiger dan de smaragdgroene mist die het moeras bedekt...
+
+name_island_City=Zwevende Stad
+bio_island_City=Zwevende Stad bio
+
+name_island_Seasonal=Seizoensverbinding
+bio_island_Seasonal=Seizoensverbinding bio
+
+name_island_Lullaby=Serene Slede
+bio_island_Lullaby=Serene Slede
+
+name_island_Organ=Aarde der Organen
+bio_island_Organ=Aarde der Organen bio
+
+name_island_Walrus=Walrus Grotten
+bio_island_Walrus=Walrus Grotten bio
+
+name_island_Farm=Hoogwater Hoeve
+bio_island_Farm=Hoogwater Hoeve bio
+
+name_island_unknown=???
+bio_island_unknown=Je hebt dit eiland nog niet ontdekt. Wellicht zal het later beschikbaar zijn.
+
+-----tasks
+task_breed_monster=Kweek en plaats <entity>.
+task_buy_monster=Koop en plaats <entity>.
+task_go_to_level=Bereik niveau <level>.
+task_unlock_island=Ontgrendel <island>.
+task_feed_monster=Voeder een monster to niveau <level>.
+task_collect_money=Spaar <amount> munten.
+task_clear_obstacles=Ontruim <amount> obstakels van het type <obstacle>.
+
+-----popups
+btn_yes=Ja
+btn_no=Nee
+btn_ok=Oké
+
+str_popup_send=Weet je zeker dat je <monster_name> naar <island> wilt sturen?
+str_popup_send_tickets=Je hebt niet genoeg kaartjes om <monster_name> naar <island> te sturen.
+str_popup_send_level=<monster_name> moet niveau <required_level> zijn om naar <island> gestuurd te worden.
+str_popup_not_enough_currency=Je hebt niet genoeg <item>!\nSpeel het spel en verzamel meer <item> om de transactie te voltooien.
+str_popup_sell=Weet je zeker dat je <monster_name> wilt verkopen voor <amount> <item>?
+str_popup_limit=Je kan niet meer dan <entity_max> van dit hebben.
+
+str_airship=Welluidende Zeppelin
+str_airship_arrival=De zeppelin zal aankomen over\n<airship_time>
+str_airship_retrieval=De zeppelin zal vertrekken over\n<airship_time>
+
+str_item_tickets=Kaartjes
+
+
+str_loading_error=Er was een fout bij het laden van de spelgegevens. Controleer aub je internetverbinding en probeer opnieuw.\nFout: <error>
+str_net_error= Er was een fout bij het laden van de activa. Het spel moet heropend worden om de activa proberen opnieuw te laden.\nFout: <error>
+
+-----monstres
+bio_monsterYoung_clackula=Klakula kinderen zijn anders dan andere jonge monsters, aangezien ze net so asociaal en verlegen zijn als hun volwassen tegenhangers. Het kost veel conversatie om een Klakula open te krijgen. Echter, met genoeg geduld en toewijding is zelfs de meest afgesloten Klakula uit zijn schulp te krijgen! Baby KlakulaÃ¢â‚¬â„¢s hebben vaak een voorliefde voor dansen in hun vrije tijd, en de meer uitgaande van de groep wagen zelfs de poging een onwetende Fluork of Kandelara op spectaculaire wijze te grazen te nemen! Helaas vindt ÃƒÂ©ÃƒÂ©n van hun hand-bekken vaak een manier om naar hun danspartner te happen. Dit geeft voldoende uitleg waarom KlakulaÃ¢â‚¬â„¢s zulke stunts geen tweede keer wagen.
+
+bio_monsterYoung_osstax=Het is bekend dat een Ostapaal zijn leven begint als een paar individuen die zich later in het leven samenvoegen. Normaal duurt dit vele, vele jaren, aangezien ze in de perfecte volgorde bij elkaar moeten passen om een volledige Ostapaal te worden, maar voor de enkele individuen die hun perfecte gelijke vroeg vinden, krijg je een tafereel zoals dit! Ondanks dat Ostapaal kiezeltjes over het algemeen gevestigd zijn, smeden ze snode plannen voor allerlei problemen. Dit doen ze makkelijk samen en met de daaropvolgende dubbele hersen kracht worden ze dubbel zo onvoorspelbaar. Zoals het gezegde gaat, twee hoofden zijn altijd beter dan ÃƒÂ©ÃƒÂ©n!
+
+bio_monsterYoung_brump=Awww! Degenen die vertrouwd zijn met monstrologie zijn goed op de hoogte van de Brump zijn... unieke fysieke kenmerken. Door een eenzame Wubbox van klei gemaakt, zou niemand verwachten dat er een jeugdige vormÃ¢â‚¬â€zoals te zien in de Zwevende StadÃ¢â‚¬â€bestaat, Maar deze kleine Brump bewijst niet alleen het tegendeel, maar laat ook zien dat zelfs de slijmerigste Wublin schattig kan zijn! Nog niet gewend aan hun kwikkerige voeten, proberen Brump jonkies toch hun tijd kuierend door te brengen in de Zwevende Stad. Elke vooruitdenkende monsterbehandelaar zal ze zeker ver weg houden van de kliffen, om een monster reddingsmissie in de lucht te vermijden!
+
+bio_monsterYoung_yool=Niemand is beter in de feeststemming dan de Jool! Terwijl een volwassen Jool zijn trekkende aard gebruikt om pauze te nemen buiten het hoogseizoen, behandelen Jool kalveren de hele dag door elke dag alsof het de 12 dagen van Yay is. De gangen worden bekleed en overal worden cadeaus geplaatst. Hun enthousiasme, gecombineerd met breekbare rekwisieten, zorgt er echter voor dat hun verassingen vaak niet volgens plan gaan. Dit resulteert dan in geschrokken monsters en gebroken ornamenten. Gelukkig geven de bellen op hun gewei hun locatie weg, het is moeilijk in te denken welke soort problemen ze zouden krijgen zonder deze!
+
+bio_monsterYoung_jeeode=Terwijl de volwassen Juwedel bekend is om zijn vaardigheden met het oplossen van conflicten, staan de babyÃ¢â‚¬â„¢s niet bepaald bekend om hun vooruitziendheid. Juwedel kindjes zijn onvolwassen, en streven naar een hogere standaard dan wat van ze verwacht word op deze jonge leeftijd, wat vaak leidt tot vele misverstanden en valse oordelen. Hoewel deze zoektocht uiteindelijk hun onberispelijke onpartijdigheid zou aanscherpen, probeert elke goede vriend ze te kalmeren voordat ze te diep in hun eigen hoofd kruipen. Tenslotte is communicatie een belangrijk onderdeel van elke relatie, dus glashelderheid wordt zeker gewaardeerd!
+
+-----decos
+name_deco_tlTotem=H.V-Totem
+bio_deco_tlTotem=H.V-Totem bio
+
+name_deco_heart_tree=Bloed Bloesem Boom
+bio_deco_heart_tree= Bloed Bloesem Boom bio
+
+-----Dialogue
+di_fur_1=Hallo! Welkom bij Mijn Zingende Monsters:Het Verloren Landschap!
+di_fur_2=Houd er rekening mee dat dit spel niet officieel is. En niets hier is canon voor het echte Ã¢â‚¬Å“Mijn Zingende MonstersÃ¢â‚¬Â spel. Dank je wel.
+di_fur_3=Laten we beginnen met het verkrijgen van een monster!
+di_fur_4=Kan je dat horen? De Hersenpan tikt zijn hersenpan om een ongewoon geluid te creÃƒÂ«ren! Laten we eens kijken wie we nog meer kunnen krijgen.
+di_fur_5=Dit klinkt heerlijk! Misschien iets anders heerlijks? Laten we onze monsters wat te eten geven.
+di_fur_6=Telkens als je een monster voert, gaat zijn niveau omhoog. Monsters boven niveau 4 kunnen gekweekt worden.
+di_fur_7=Laten we nieuwe monsters kweken om aan het lied toe te voegen.
+di_fur_8=Gebruik diamanten om het kweekproces te versnellen.
+di_fur_9=Goed gedaan!\nOeh, kijk! Een diamant! Ze kunnen overall verschijnen en je kan ze voor gebruik oppikken.
+di_fur_10=Niet slecht. Je krijgt het onder de knie. Blijf kweken en voor je monsters zorgen en vergeet niet de taken te controleren. Veel geluk!

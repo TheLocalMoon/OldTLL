@@ -1,0 +1,522 @@
+d_furcorn_marsh_1=Well would you look at that!
+d_furcorn_marsh_2=Something has happened to this place.
+d_furcorn_marsh_3=It's different now.
+d_theremind_marsh_1=Hahaaaaaaaa funneeeee.
+
+name_undof_monster_test=Fwide
+bio_undof_monster_test=Fwide
+costume_undof_monster_test_2=All squashed.....Just squashed
+
+
+btn_play=Play
+btn_exit=Quit
+btn_move=Move
+btn_feed=Feed
+btn_flip=Flip
+btn_place=Place
+btn_cancel=Cancel
+btn_zapper_eggs_list=Inventory
+btn_buy_more=Buy more
+btn_buy=Buy
+btn_info=Info
+btn_map=Map
+btn_settings=Settings
+btn_feedback=Feedback
+btn_mute=Mute
+btn_sell=Sell
+btn_zap_into_zapper=Zap
+btn_store=Market
+btn_store_monsters=Monsters
+btn_store_decos=Decorations
+btn_store_strucs=Structures
+btn_breed_start=Breed
+btn_breed=Breed
+btn_repeat=Repeat
+btn_send=Send
+btn_save_island_data=Save
+btn_load_island_data=Load
+btn_clear_island_data=Clear
+btn_promotion_visit=Visit
+btn_copy_user_id=Copy UserID
+btn_dialogue_next=Next
+btn_send_to_airship=Send
+btn_reset_currency=Reset currency
+btn_performance=Optimized mode
+btn_costume=Costumes
+btn_fullscreen=Fullscreen
+btn_craft=Craft
+btn_speedup=Speed up
+btn_book=Collection
+btn_wakeup=Wake up
+btn_bake=Bake
+btn_collect_all=Collect all
+btn_mail=Mailbox
+btn_mail_view=VIEW
+btn_mail_collect=Claim
+btn_mail_accept=Accept
+btn_mail_deny=Decline
+btn_mail_ok=Ok
+str_mail=Mailbox
+str_mail_creator_gift=TLL Staff have gifted you:
+str_mail_creator_gift_title=Diamond Gift Incoming!
+str_mail_creator_gift_desc=You've received a gift from the TLL Staff- be sure to claim it!
+btn_upgrade=Upgrade
+
+str_mail_gift=You've got a gift!\nIt's:
+str_mail_gift_title=Diamond Gift Incoming! 
+str_mail_gift_desc=You've received a gift- be sure to claim it!
+
+str_mail_reward_gift=You've won the giveaway!\nHere's your prize:
+str_mail_reward_gift_title=Giveaway Reward Incoming!
+str_mail_reward_gift_desc=You've earned a reward! Make sure to claim it below, and put those goodies to good use. Happy Monstering!
+
+str_mail_holiday_gift=Happy holidays!\nWe have a gift for the occasion:
+str_mail_holiday_gift_title=Holiday Gift Incoming!
+str_mail_holiday_gift_desc=Happy Holidays! And the best way to celebrate this magical time of year is to spread the love with some gifts- like the one attached to this message!
+
+str_mail_holiday_christmas_Catholic_gift=Merry Christmas!\nHere's your Christmas gift:
+str_mail_holiday_christmas_Catholic_gift_title=Merry Catholic Christmas!
+str_mail_holiday_christmas_Catholic_gift_desc=Merry Catholic Christmas! No matter how you celebrate, be sure to have a jolly good day! To get you started, here's a little something...
+
+str_mail_holiday_christmas_Orthodox_gift=Merry Christmas!\nHere's your Christmas gift:
+str_mail_holiday_christmas_Orthodox_gift_title=Merry Orthodox Christmas!
+str_mail_holiday_christmas_Orthodox_gift_desc=Merry Orthodox Christmas! No matter how you celebrate, be sure to have a jolly good day! To get you started, here's a little something...
+
+str_mail_holiday_hanukkah_gift=Happy Hanukkah!\nHere's a gift for the occasion:
+str_mail_holiday_hanukkah_gift_title=Happy Hanukkah!
+str_mail_holiday_hanukkah_gift_desc=Happy Hanukkah! Candelavra's got the Menorah lit, Mammott is enjoying the festivities, and YOU just got some extra goodies!
+
+str_mail_holiday_valentines_gift=Happy Valentine's Day!\nHere's a gift for the occasion:
+str_mail_holiday_valentines_gift_title=Happy Valentines Day!
+str_mail_holiday_valentines_gift_desc=Happy Valentine's Day from Raw Zebra and the MSM:TLL Devs! Have a love-ly day and enjoy the enclosed gift!
+
+str_mail_holiday_patricks_gift=Happy St. Patrick's Day!\nHere's a gift for the occasion:
+str_mail_holiday_patricks_gift_title=Happy St. Patricks Day!
+str_mail_holiday_patricks_gift_desc=It's your lucky day- some gifts in celebration of St. Patrick's day!
+
+str_mail_holiday_easter_gift=Happy Easter!\nHere's a gift for the occasion:
+str_mail_holiday_easter_gift_title=Happy Easter!
+str_mail_holiday_easter_gift_desc=Happy Easter from Raw Zebra and the MSM:TLL Devs! Put your sleuthing and hunting to good use and figure out how to open up this reward...
+
+str_mail_holiday_summer_gift=Happy Summer Holidays!\nHere's a gift for the occasion:
+str_mail_holiday_summer_gift_title=Sunny Surprise Inside!
+str_mail_holiday_summer_gift_desc=Happy Summersong! Collect your Sunny Surprise here!
+
+str_mail_holiday_halloween_gift=Have a spOoOoOky Halloween!\nHere's a gift for the occasion with some sweets:
+str_mail_holiday_halloween_gift_title=Spooky Surprise Inside!
+str_mail_holiday_halloween_gift_desc=BOO! Punkleton did some digging in the deep underground and found these Diamonds just for you! 
+
+str_mail_holiday_muertos_gift=Happy Day of the Dead!\nHere's a gift for the occasion:
+str_mail_holiday_muertos_gift_title=Day of the Dead Diamond Delivery!
+str_mail_holiday_muertos_gift_desc=Have a Delightful Dia de los Muertos, and celebrate both Mexican Culture and all cultures! Take this gift as a reward for being such a great person -Azuran and the other TLL Devs
+
+str_mail_clear_data=Hello there! This message is to notify you that if your game has had an issue with previous versions of the game breaking your save (Monsters Disappearing, Monsters in top right corner etc.), If you'd like to reset you save data, then click accept. The game will close and will be reset once opened again.
+str_mail_clear_data_title=Please confirm that you wish to clear your progress:
+str_mail_clear_data_desc=To PERMENANTLY DELETE your progress in MSM:TLL, please click the button to the right! Thanks for playing and we can't wait to see how you progress this time around :D
+
+
+
+str_airship=Euphonic Zeppelin
+str_airship_arrival=The zeppelin will arrive in\n<airship_time>
+str_airship_retrieval=The zeppelin will retrieve in\n<airship_time>
+str_characters_limit=3000 characters limit
+str_feedback=Feedback and bug report
+str_feedback_hint_text=Enter text...
+str_item_diamonds=Diamonds
+str_item_coins=Coins
+str_item_food=Food
+str_item_tickets=Tickets
+
+str_item_nottsurr-rock=Knottsurr gem
+str_item_nottsurr-wool=Wool
+str_item_nottsurr-wood=Knottsurr log
+str_item_nottsurr-bone=Bone
+str_item_nottsurr-darkmatter=Souxls energy
+
+str_monster_level=lvl:<level>
+str_monster_level_max=Max
+str_island_list=Choose an island
+str_loading_asset_bundles=Loading asset bundles
+str_loading_names=Fetching names
+str_loading=Loading
+str_user_id_pre=Your UserID:
+str_banned_title=You were banned!
+str_banned=This might be due to inappropriate behavior or hacking. If you think this is a mistake, contact us.
+str_offline=You are offline.\nReconnect to the internet and reopen the game.
+str_loading_error=There was an error loading the game data. Please check your internet connection and try again.\nError: <error>
+str_net_error=There was an error loading assets. The game must be reopened to try loading the assets again.\nError: <error>
+str_loading_upadte_id=Loading update identificator
+str_breeding_monster_1=Monster 1
+str_breeding_monster_2=Monster 2
+str_popup_breeding_both=You must choose at least two monsters to breed them.
+str_level_limit=You can't feed a monster above level 20.
+str_enter_name=This must not be empty...
+str_nocostume=No costume
+
+str_breeding_result=Breeding will take:<breeding_time>\nWould you like to speed it up for <amount> <item>?
+str_breeding_ready=You've bred...\n<monster_name>!\nIncubation will take\n<hatch_time>\nWould you like to speed it up for <amount> <item>?
+str_hatching=You've hatched...\n<monster_name>!\nWhat would you like to do with it?
+btn_hatch_wait=Wait
+btn_hatch_skip=Speed up
+btn_hatch_zap=Zap
+str_breed_retry=Retry this breeding combination?
+str_sale=SALE!
+
+
+-----popups
+btn_yes=Yes
+btn_no=No
+btn_ok=OK
+
+str_popup_send=Are you sure you want to send "<monster_name>" to <island>?
+str_popup_send_tickets=You don't have enough tickets to send "<monster_name>" on <island>.
+str_popup_send_level="<monster_name>" has to reach level <required_level> to be sent on <island>.
+str_popup_not_enough_currency=You don't have enough <item>!\nPlay the game and collect more <item> to finish the transaction.
+str_popup_sell=Are you sure you want to sell "<monster_name>" for <amount> <item>?
+str_popup_limit=You can't have more than <entity_max> of this.
+str_popup_craft_fail=You don't have all the items needed to craft "<monster_name>".
+str_popup_breeding_congrats=Congratulations! You've bred:\n<monster_name>
+str_popup_breeding_whattodo=What would you like to do with it?
+str_popup_breeding_speedup=Would you like to finish the breeding for <amount> diamond(s)?
+str_popup_zap_confirm=Would you really like to zap <monster_to_zap_type> in <monster_name>?
+str_popup_bakery_purchace=Would you really like to buy <food_amount> Food for <amount> <item>?
+str_popup_bakery_speedup=Would you like to finish baking for <amount> diamond(s)?
+str_popup_breeding_repeat_fail=Can't repeat the breeding combination.\nAre you sure your monster you used were not removed from your island?
+str_popup_mail_claim_monster_error=This monster was not sent to this island. Please claim it on <island_name>.
+str_popup_upgrade_island=Are you sure you'd like to upgrade <island_name> for <amount> <item>?
+
+-----monsters
+name_monster_potbelly_adult=Potbelly
+bio_monster_potbelly_adult=The adult potbelly is a loud and extroverted creature, constantly babbling nonsense to everyone who can hear. Whilst other monsters would love to stay around and listen, eventually a potbelly may take off its pot and settle into the jabber, sometimes not even noticing the rooty tendrils engulfing it’s eager listener. Luckily, these days monsters have learned to stay away or gently remind the potbelly, and things go smooth from there.
+costume_monster_potbelly_adult_2=Impastah
+costume_monster_potbelly_adult_3=Wally W
+
+name_monster_tweedle_adult=Tweedle
+bio_monster_tweedle_adult=Adult Tweedles are known to migrate a lot from island to island, sometimes they travel to visit their friends while they also sometimes live on one once they get to understand it a lot with the help of their fellow monsters, a true adventuring bird we must say!!!
+costume_monster_tweedle_adult_2=Chill chick
+
+name_monster_toejammer_adult=Toe jammer
+bio_monster_toejammer_adult=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the water, they are also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they always know how to have a good time!!!"
+Adult dandidoo : "Adult Dandidoos are always "dooing" many things across the landscapes, they always bring in a great monster crowd with their fluffy hair but do be careful when Spunge is around them!!!
+costume_monster_toejammer_adult_2=There's always room
+costume_monster_toejammer_adult_3=A sophisticated droplet
+costume_monster_toejammer_adult_4=Legal alien
+
+name_monster_flootfly_adult=Flootfly
+bio_monster_flootfly_adult=The mystical Floot Fly is one of the most common monsters to stumble upon throughout the Lost Landscapes, as it's one of the friendliest monsters around! Floot-Flies love to throw tea parties in the most bizarre locations too! Invites to a tea party are always revered and accepted gleefully, as it's a great place to socialize and gossip!
+costume_monster_flootfly_adult_2=Faerie Berry
+
+name_monster_dandidoo_adult=Dandidoo
+bio_monster_dandidoo_adult=As the warm flows of the ocean carry oysters around the deeps, a gentle breeze carries Dandidoo across the monster world. Their migrations rely on airflow since nature wasn't kind enough to grant them wings. They can conduct the air through their bodies to store and burst it out in a powerful stream of tuned tones and semitones. That's why their singing resembles "doo"s and "dee"s.\nTheir plant element gave them a greenish hue and afro-styled hair reminiscent of a common dandelion.
+costume_monster_dandidoo_adult_2=Hot chick
+
+name_monster_oaktopus_adult=Oaktopus
+bio_monster_oaktopus_adult=Oaktopi are packed full of wisdom to share with the world, about the world. They almost always have an answer to some of life's most burning questions; "Why is the sky blue?", "Is water wet?", and most notably, "Is mayonnaise an instrument?" (The answer is inconclusive, there is no mayonnaise monster). Sometimes they even say outlandish claims of islands once being carried by towering creatures across the monster world. Psh, yeah right. An Oaktopus can usually be seen reading a good book or swimming in a local hot spring.
+costume_monster_oaktopus_adult_2=Doc Oak
+costume_monster_oaktopus_adult_3=Serious business
+
+name_monster_quibble_adult=Quibble
+bio_monster_quibble_adult=The Quibble may seem like a graceful monster on the outside, but that's just a facade. The two heads constantly bicker, usually having polar opinions about the latest trends, or some other trivial issue. One time, the left Quibble wanted to order fries, but the right Quibble was eager to get a milkshake... chaos ensued. But in the end, they always make up with each other, like true siblings. Oh yeah, they ended up ordering fries dunked in a milkshake. A... unique consensus
+costume_monster_quibble_adult_2=Dark mode
+
+name_monster_kikimora_adult=Varow
+vargan+prow+crow
+bio_monster_kikimora_adult=Known for its penchant for hunting, the melodic “Yah-ha-ha!” of the Varow echoes throughout all corners of the Evergreen Swamp. It uses its call and prolonged noseharp to attempt to attract juvenile fwogs to its corner of the swamp, even though it might not work as often as it likes. In fact, its attempts more often scare its slippery prey away, leaving the Varow fwogless and alone. It’s a sad thing too, since it truly just wants new customers to sample their fresh home-made sweets!
+costume_monster_kikimora_adult_2=Big shot
+
+name_monster_spunge_adult=Spunge
+bio_monster_spunge_adult=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles
+costume_monster_spunge_adult_2=Rusty sponge
+
+name_monster_bannik_adult=Banno
+bio_monster_bannik_adult=Banno is a vocalist of the legendary Cancer Choir, for a long time he spent his time in the deep cold depths of the ocean. Sadly though, it was far too cold for his hot water-loving body! Instead of moving into a geyser of some sort, he decided to stay close to his friends, utilizing an endlessly boiling bucket to keep comfy. Whilst his boiling red abdomen may be concerning, there’s no need to worry- Banno states that it’s just his natural color showing after the cleaning of thousands of years of sea gunk.
+costume_monster_bannik_adult_2=MONEY!
+
+name_monster_phangler_adult=Phangler
+bio_monster_phangler_adult=It appears that the lukewarm waters around the marsh are quite the welcoming enviroment. Many monsters come up to the surface to enjoy them, including the Wadee, the Banno, and more! It appears some monsters also make the land journey at times! One such example is Phangler, who must have adventured all the way from the jungley shore, through the Evergreen Woods to get to the water. Phangler says its arguably the second-sweetest place in the world- and who can blame em?
+
+
+name_monster_coral_adult=Choralle
+bio_monster_coral_adult=Huh? This seems to be an ordinary tree, but consider us fooled, as this is the shy protege of the Cancer Choir, Choralle! These small masters of natural trickery use a tree-like figure for protection, usually hiding from bigger monsters who usually mean no harm, as they just want to say hello! But being the introverted species they are, the Choralle produce a powerful slam with their disguise if someone gets too close. It may seem rude, but it's just instinct, which we can't blame them for.
+
+name_monster_frondley_adult=Frondley
+bio_monster_frondley_adult=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
+costume_monster_frondley_adult_2=The brave and the bald
+costume_monster_frondley_adult_3=Cerberus toy
+costume_monster_frondley_adult_4=Pretty & Pampered
+costume_monster_frondley_adult_5=Ring-ring!
+
+name_monster_yaga_adult=Stoopa
+bio_monster_yaga_adult=Not much is known about the misty marsh deep in the heart of the Evergreen Woods, but legends speak of a strange monster that watches over and leads the song of the monsters that reside there. And whaddya know, here it is! Stoopa is even more of a recycling expert than Congle, finding anything and everything in nature to produce its song, even if it has to make some exceptions with its nature-based rule at times- proven by those... pots and pans on its stupa? Still very little is known about it, and Stoopa prefers to keep it that way while it wields its strange staff, and guards the secrets of the Marsh.
+costume_monster_yaga_adult_2=Sweetstaff
+
+name_monster_maulch_adult=Maulch
+bio_monster_maulch_adult=Be prepared to get down until you're six feet underground, the Maulch is here! They spend a heavy portion of their days burrowed in the ground beneath, until they pop out, thoroughly energized and ready to bust a dance. Some of Maulch's patent-pending moves include the Soil Shake, the Grime Slide, and the BRAUUUUUUUGGGGGHHHHHHHH. If you do that last dance move there's a slight chance you'll fall asleep for three days straight. Maulch does it anyways because Maulch does not care what you think is risky.
+
+name_monster_vodyanoy_adult=Wadee
+bio_monster_vodyanoy_adult=Deep below the murkiest of murky depths lies an underwater land lost to time. Many monsters have resided here, and in recent times, many from this region have adventured to the surface. If one takes a swim at the foggy center of the Evergreen Woods’ bog pools then you might hear the soggy "why" like sounds of a Wadee, one such explorer. While it was a beautiful fish in the deep, exposure to the surface has fundamentally changed it, causing its gills to shrink, it’s flippers to turn to hands, and it’s body to swell slightly. While seeming minor, these changes mean that the Wadee can no longer make the long underwater trek back home. The Wadee takes it kindly though, and uses its glowing pads to help guide other underwater travelers, and is a friend to many above and below the surface. Deep inside though, Wadee misses the sights of its home coral reef and the sounds of the Cancer Choir’s melodious tunes…
+costume_monster_vodyanoy_adult_2=I wanna fly
+costume_monster_vodyanoy_adult_3=Burgundy fog
+
+name_monster_likho_adult=Yap
+bio_monster_likho_adult=If you see a Yap, just know that you've just run into a nice chap! Yaps are small little tumbleweeds, rolling around picking up all sorts of plant life, and usually gifting some to others, even if they don't like it as much as the gifter. But not only that, when it stops, it prepares a... "wonderful" song for its comrades, which usually results in its audience screaming "MAKE IT STOP!" Don't know what that's about.
+costume_monster_likho_adult_2=Super-special density
+costume_monster_likho_adult_3=Or so help me!
+
+name_monster_likho_adult_special=Yap (With a special costume)
+bio_monster_likho_adult_special=If you see a Yap, just know that you've just run into a nice chap! Yaps are small little tumbleweeds, rolling around picking up all sorts of plant life, and usually gifting some to others, even if they don't like it as much as the gifter. But not only that, when it stops, it prepares a... "wonderful" song for its comrades, which usually results in its audience screaming "MAKE IT STOP!" Don't know what that's about. Also nice costume!
+
+name_monster_leshy_adult=Dulsylvan
+bio_monster_leshy_adult=The carved Dulsylvan, a creature of wood and weathering, held together by its solid core, may seem a tad bit rude on first encounter. Known to never speak, and always donning a scowl, Dulsylvan’s bad mood is naught more than circumstance, as it’s mouth has long been cemented in that shape. In truth, the true monster lives in the small creatures that reside upon the only truly life-filled part of the being, it’s lofty twigs. These creatures, sometimes referred to as Sylvlings, cover and open holes on their ailing ancestors branches to allow air through, and giving the Dulsylvan a means of communication with its neighbors. Once Dulsylvan mystically changes into a pine cone, the Sylvlings will begin to grow and change rapidly, into young Dulsylvans of their own!
+costume_monster_leshy_adult_2=Spuh-Getty
+costume_monster_leshy_adult_3=Fir Sir
+
+name_monsterRare_leshy_adult=Rare
+bio_monsterRare_leshy_adult=During the late stages of a Dulsylvan’s time, it’s body begins to rapidly change. Old, solid wood morphs into a light airy shape, known as a sylvcone. The Dulsylvan’s body begins to ooze a sweet sap, that will feed its young Sylvlings after it has passed on, and it’s nose changes to a luscious green shade. While these latter days are considered to be short, they are known to be filled with joy, as the old Dulsylvan becomes able to move freely once more! Eventually though, it slows down, and the sap crystallizes the sylvcone and preserves it for eternity…
+
+name_oaktopus_adult=Oaktopus
+bio_oaktopus_adult=Oaktopi are packed full of wisdom to share with the world, about the world. They almost always have an answer to some of life's most burning questions; "Why is the sky blue?", "Is water wet?", and most notably, "Is mayonnaise an instrument?" (The answer is inconclusive, there is no mayonnaise monster). Sometimes they even say outlandish claims of islands once being carried by towering creatures across the monster world. Psh, yeah right. An Oaktopus can usually be seen reading a good book or swimming in a local hot spring. mming in a local hot spring.
+
+name_monsterYoung_flootfly=Flootfly
+bio_monsterYoung_flootfly=Young Floot-flies were known as a monster myth for a very very long time until they decided to step into the world and spread their tiny wings across the floating city, some might say that its shooting air sounds from its tube-like snout can make other Young monsters have very good dreams, while others tend to try and see it without its mask on and let's just say that no one has taken a huge gander at it.
+
+name_monsterYoung_theremind=Theremind
+bio_monsterYoung_theremind=Young Thereminds may be small, but that doesn't stop them from having giant brains and even bigger ideas! Whilst they aren’t known for their chatter or even much speech at all, they often use their powerful brainwaves to communicate subliminally directly to others and sometimes pry to see what other monsters think about certain controversies…
+
+name_monsterYoung_fluoress=Fluoress
+bio_monsterYoung_fluoress=The Young Fluoress is nearly as fluorescent as its adult counterpart, well almost. The Fluoress uses an “RGB” Light grid, while the adult uses an... “ROYGBP”? grid?? I'm getting off track here, The keeper of the Light elements childhood is the most amazing thing any monster can see, it develops from 3 ‘dress’ parts into 6, visible at least…
+
+name_monsterYoung_clackula=Clackula
+bio_monsterYoung_clackula=Clackula children are unlike most young monsters, as they are just as asocial and timid as their adult counterparts. It takes a lot of conversation to get a Clackula tot to open up. However, with enough patience and dedication, even the most closed-off clackula can be brought out of its shell! Baby clackula often have a penchant for dancing about in their spare time, and the more outgoing of the bunch will even attempt to sweep an unknowing Fluoress or Candelavra off their feet in the most spectacular of fashion! Though, more often than not, one of their rogue hand-mouths finds a way to snap at their dance partner, providing a suitable explanation as to why most clackula don’t attempt stunts like that a second time.
+
+name_monsterYoung_osstax=Osstax
+bio_monsterYoung_osstax=It’s well-known that Osstax begins their lives as a few individuals who join together later in their life. This normally takes many, many years, as they need to fit together perfectly to become a full Osstax, but for the few individuals that find their perfect match early on, you get a scene like this one! Osstak Pebblets, despite being generally sedentary, can come up with all sorts of plans for all sorts of trouble. They’re easily able to plot with the other members of their stak, and use this extra doubled brainpower to be doubly unpredictable. You know what they say, two heads are always better than one!
+
+name_monsterYoung_brump=Brump
+bio_monsterYoung_brump=Aww! Those versed in monstrology are well aware of the Brump's... unique physical characteristics. Being made of clay by a lonely wubbox, one wouldn't expect there to be a juvenile form as seen on Floating City, but this little Brumplet not only proves otherwise, it shows that even the slimiest of wublins can be turned cute! Not yet used to their fwoggy feet, Brumplets nonetheless attempt to spend their time ambling about the floating city. Any forward-thinking monster handler will be sure to keep them far away from any cliffs, as to avoid any sort of airborne monster rescue mission!
+
+name_monsterYoung_oaktopus=Oaktopus
+bio_monsterYoung_oaktopus=Young Oaktopi are packed full of a need to learn about the world, to share with the world. If they see something, there's a 96.4672345287% chance they'll have something to ask about it. Most questions are about if they can eat various objects. The Young Oaktopus loves broccoli most all, gobbling them up on sight. Other leafy green lovers end up chasing the poor Oaktopus sapling, thinking they're broccoli! Oaktopus tastes like dirty socks. Do not consume the oak. 
+
+name_monsterYoung_yool=Yool
+bio_monsterYoung_yool=No one’s better at festive spirit than the Yool! While a mature Yool uses its migratory nature to take a break during the off-season, Yool calves will treat all day every day as if it’s the 12 days of yay, decking the halls and placing presents everywhere it goes. Though, their enthusiasm combined with delicate props means that their yaytide surprises don't often go to plan, leading to startling monsters and broken ornaments. Thank goodness the bells on their antlers give away their location, it’s hard to imagine the types of trouble they’d get into without!
+
+name_monsterYoung_jeeode=Jeeode
+bio_monsterYoung_jeeode=While the adult Jeeode is renowned for its conflict resolution skills, babies aren’t usually known for their foresight. Jeeode tufflings are immature and often hold themself to a higher standard they can’t be expected to achieve at such a young age, often leading to a lot of misunderstandings and false judgments. While this pursuit is what would eventually hone their impeccable impartiality, any good friend will try and calm them down before they get too deep in their head. After all, communication is an important part of any relationship, so being crystal clear is especially appreciated!
+
+name_monsterYoung_stogg=Stogg
+bio_monsterYoung_stogg=Young Stogg bio
+
+name_monsterYoung_schmoochle=Schmoochle
+bio_monsterYoung_schmoochle=Young Schmoochle bio
+
+name_monster_stone_1=Knottsurr tree
+bio_monster_stone_1=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the Island. It's bark is almost pertified and impenetrable by most of the vermins and predetors. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
+
+name_monster_stone_2=Bay
+bio_monster_stone_2=Bay bio
+costume_monster_stone_2_2=Toorkeech ambassador
+
+name_monster_stone_3=Souxls Vessel
+bio_monster_stone_3=The souxls[SOULS] - Vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nTheir adamant fingers and immeasurable strength make them a perfect fit for the job. Yet even they are having a hard time maintaining the restless souxls at repose.
+
+name_monster_stone_4=BoOoo
+bio_monster_stone_4=All those who hail from the Thumpiverse are well versed in the practice of interdimensional leaps, and BoOoo is no exception. Fleeing the abysmal depths of its former home, BoOoo embarked on a long and widespread journey for a new home. Eventually, it found a strange mountain, deep below the Silver Crags, that emitted a strange feeling that resonated with BoOoo. At first staying to investigate, the cryptic aura of the region has convinced BoOoo to finally choose a true home for the first time in millennia. However, no gift comes without its price, and without careful consumption of local materials, the region’s alien magic might take hold on BoOoo and the other residents in strange ways… 
+
+
+name_monster_stone_5=Mount Tuzzpikk
+bio_monster_stone_5=Mount Tuzzpikk was a regular Knott-rock that got affected by the Knottsurr magic, emmited from the mystical orbs found across the Knottsurr Island. It gained musical abilities and immediately after being animated, started to sing. It knows many compositions but "Pearrdesh Slougna" and "Ellepharrth" by "DJ. Goldenduck" is the closest to its rock heart. You can find it humming the melody non-stop whenever it's not singing.\nLeaving the island would result in reverting to its initial state of non-sentience. Unless it carries one of the sources of Knottsurr magic with it wherever it goes.
+
+name_monster_stone_6=Mount Mound
+bio_monster_stone_6=Mount Mound bio
+
+name_monster_stone_7=Flocca
+bio_monster_stone_7="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception help to identofy any types of bone injuries. Helping monster around in cse of an accident.
+
+name_monster_stone_8=Cleomace
+bio_monster_stone_8=Cleomace bio
+
+name_monster_stone_9=Babushka Knittsurr
+bio_monster_stone_9=Meet the frienliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old. And seem to never visually change after hitting a milesote of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
+
+name_monster_stone_10=Meent
+bio_monster_stone_10=
+
+name_monster_gumtromp_adult=Gumtromp
+bio_monster_gumtromp_adult=Gumtromp bio
+
+name_monster_keytrus_adult=Keytrus
+bio_monster_keytrus_adult=Keytrus bio
+
+name_monster_koodahcane_adult=Koodahcane
+bio_monster_koodahcane_adult=Koodahcane bio
+
+name_monster_marshflamo_adult=Marshflamo
+bio_monster_marshflamo_adult=Marshflamo bio
+
+name_monster_choccosour_adult=Brasscuit
+bio_monster_choccosour_adult=Choccosour bio
+
+name_monster_jawbreaker_adult=Gobstomper
+bio_monster_jawbreaker_adult=Jawbreaker bio
+
+name_monster_claramel_adult=Claramel
+bio_monster_claramel_adult=Claramel bio
+
+name_monster_cakehorn_adult=Sprinklate
+bio_monster_cakehorn_adult=Cakehorn bio
+
+name_undof_monster_noggin=Noggin
+bio_undof_monster_noggin=Noggins are basically musical rocks. Deeply in tune with the Earth, their simple rhythms echo an Island’s pulse. The sensation of reverberation produced by a Noggin motivates all other monsters.
+costume_undof_monster_noggin_2=Rock candy
+
+name_undof_monster_toejammer=Toe Jammer
+bio_undof_monster_toejammer=While Toe Jammers may appear fragile, these rubbery Water elementals are very tough. Toe Jammers sing of liquid wonders: deep-sea leviathans, crashing surf, flooded basements, and bubble tea!
+costume_undof_monster_toejammer_2=Socks of Splendor
+
+name_undof_monster_kayna=Kayna
+bio_undof_monster_kayna=The ancient Kayna was long thought lost to an enigmatic event in monster antiquity. A solitary specimen encased in amber was rescued on Tribal Island. It's true, but only recently did a new generation of these beings begin to appear, beckoned by the mysterious call of Relics resonating deep within the world's volcanic core. Now, this feisty Fire Elemental is ready to play its part in restoring the glory of its powerful Element in the Monster World.
+
+name_undof_monster_jamboree=Jam boree
+bio_undof_monster_jamboree=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
+costume_undof_monster_jamboree_2=Pumpkin pi... cake
+costume_undof_monster_jamboree_3=There's a hair in my cake
+
+name_undof_monster_thrumble=Thrumble
+bio_undof_monster_thrumble=Wide-mouthed and keen snackers, Thrumbles are prone to swallowing treats whole. Their elongated gullets can squash and stretch to provide said treats with ample time to be pulverized by the reverberations of this happy-go-lucky hummer's signature thrumming. When thrumming on an empty stomach, bubbling pockets of air can expand and prompt a sudden flurry of giggles!
+
+name_undof_monster_stogg=Stogg
+bio_undof_monster_stogg=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
+
+name_undof_monster_phangler=Phangler
+bio_undof_monster_phangler=Phanglers are destined for a life in the limelight! These Natural-born crooners live to perform, and their dulcet tones are frequently employees at all manner of shindigs. Don't get caught without live entertainment at your Anniversary Month party: book Phangler today!
+costume_undof_monster_phangler_2=Mistletune
+
+name_undof_monster_fwog=Fwog
+bio_undof_monster_fwog=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.	
+costume_undof_monster_fwog_2=All squashed up
+
+name_monster_spamton=Spamton G. Spamton
+bio_monster_spamton=Give me your [kromer] or suffer the [eternal poopie]
+
+-----decos
+name_deco_jar=Spare parts
+bio_deco_jar=It's a jar of spare parts! What's it for? Who knows? Are they spare parts for Blipsqueak? Are they spare parts for Handmond just in case its organs fail? Are they even spare parts at all!?
+
+name_deco_jugler=Juggle tulip
+bio_deco_jugler=At first glance, this can be easily mistaken for a Monster. But it's just a plant that can juggle anything, mostly eyeballs.
+
+name_deco_bucket=Bucket-o-cattail
+bio_deco_bucket=Looks like someone plucked some Cattails from the Evergreen Marsh and put them in a bucket of water to keep them alive! Neat-o!
+
+name_deco_upside-tree=Capsize berry tree
+bio_deco_upside-tree=Capsize trees are well-loved throughout the lost landscapes for their delicious berries. They're so delicious in fact, monsters don't often realize the magical side-effect of the berries, where they float up into the air and fall down right on their heads!
+
+name_monster_dancer=The dancer
+bio_monster_dancer=The dancer is surrounded by some strange things. The strangest and, perhaps, the creepiest thing is......how.... are you reading this?\nThis should not be available to a common player.....
+
+name_monster_cursed_adult=The thing...
+bio_monster_cursed_adult=Oh wow! How are you reading this? Unless you are a tester of this game, I have no idea how you got this.... thing on your island. Oh well!/nThis thing is jsut a test thing I created to test stuff. But I think it will be transformed into a deco. Some kind of pole.
+
+name_deco_baloony=Baloony
+bio_deco_baloony=They call him friend substitute. Lonely monsters come to Baloony at any time and share their stories with him. Our "friend" used to fly around freely, exploring the monster world, but he got stuck between two rocks with nothing left to do but to sway serenely from side to side. Nobody knows who created Baloony, but rumors say that it slightly resembles its creation. Who knows, maybe we will meet one day.
+
+name_deco_tlTotem=T.L-Totem
+bio_deco_tlTotem=Monsters often spend their time naming the stylized monster heads that make up the T.L-Totem. While the majority of their names are commonly disputed, everyone has somewhat agreed on the bottom thumpie's name being 'Nubert.' My man!
+
+name_deco_heart_tree=Blood blossom tree
+bio_deco_heart_tree=Okay... I've seen a lot of disgusting things from the Terra of Organs but this takes the cake! Like what on Galvana's Monster World is that!? It's just- HMMPH! I gotta go to the bathroom... I think I'm gonna throw up...
+
+name_deco_flowers=Floweyes
+bio_deco_flowers=Floweyes are a very rare sight in most of the modern monster world. Thought to be relatives of the ockulo tree, Floweyes aren't capable of any riff-like sound, making them wonderful listeners! Most don't try and strike up a conversation, however, because they just won't. stop. STARING.
+
+name_deco_dragoon=Gradoon vessel
+bio_deco_dragoon=Gradoons are, quite obviously, relatives to the ancestral Dragoon! It's truly uncanny how similar they are. The ferocious jaws, the finned tail, the serpentine body... what do you mean you don't see the resemblance?
+
+name_deco_tongue_tree=Tung-yucca
+bio_deco_tongue_tree=Tung-yuccas, despite appearances, don't consist of genuine monster tongues. Though, that doesn't stop them from leaning over any unsuspecting monster and drooling all over them. Yuck-a!
+
+-----structures
+name_struc_breeding=Breeding structure
+bio_struc_breeding=Behold the one and only Breeding structure!!!\nMonsters from long ago have used this useful tool to discover more new Monsters thanks to the power of their eggs and love that creates them all in a unique way. but sometimes the Breeding might go a but unexpected and produce a different version of the monster... who knows what you will get???
+
+name_struc_builder=The Amalgamator
+bio_struc_builder=The Amalgamator bio
+
+name_struc_nursery=Nursery
+bio_struc_nursery=Nursery bio
+
+name_struc_bakery=Bakery
+bio_struc_bakery=This is a Bakery. I's used to bake. Enough said.
+
+name_struc_bass=Bass machine
+bio_struc_bass=The Bass Machine is a cutting edge mix of art and technology, originating from the age of the Great Burgundy Incident. While the knowledge to create more was lost long ago, many can be found lying around in buildings across the floating city. These strange machines are known to be far more intelligent than any other being within the known realm, but yet cannot communicate with the outside world, leaving them to hum and strum bass notes hoping to be understood…
+
+-----islands
+name_island_EM=Evergreen Marsh
+bio_island_EM=Lurking in the depths of the "Evergreen woods", the evergrowing "Evergreen marsh" takes place. Despite the motherland of the marsh already being spellworking, the slimy landscape is enchanted evermore with fairy-tale creatures from around the Slav. Legends affirm, that a being once wondered to the quagmire, shall see the world over disparate. Not many relish the change given upon themselves by the bewitched place that is the Evergreen marsh, so be careful, and step lightly, for in the heart of the marsh one’s future is murkier than the swamp water, and cloudier than the emerald dome seen above the wigged top…
+
+name_island_City=Floating City
+bio_island_City=Floating City bio
+
+name_island_Seasonal=Seasonal conglomerate
+bio_island_Seasonal=Seasonal conglomerate bio
+
+name_island_Lullaby=Serene Cradle
+bio_island_Lullaby=Serene Cradle
+
+name_island_Organ=Terra of Organs
+bio_island_organ=Terra of Organs bio
+
+name_island_Walrus=Walrus Caves
+bio_island_Walrus=Walrus Caves bio
+
+name_island_Farm=Suspended farm
+bio_island_Farm=Suspended farm bio
+
+name_island_Knottsurr=Knottsurr island
+bio_island_Knottsurr=Knottsurr island bio
+
+name_island_Candy=Candy Island
+bio_island_Candy=Candy Island bio
+
+name_island_unknown=???
+bio_island_unknown=You haven't discovered this island yet. Perhaps it will be eavailable later.
+
+-----tasks
+task_breed_monster=Breed and place <entity>.
+task_buy_monster=Buy and place <entity>.
+task_go_to_level=Get to level <level>.
+task_unlock_island=Unlock <island>.
+task_feed_monster=Feed a monster to level <level>.
+task_collect_money=Save up to <amount> coins.
+task_clear_obstacles=Clear <amount> <obstacle>s.
+
+-----Dialogue
+di_fur_1=Hello! Welcome to My Singing Monsters: The Lost Landscapes!
+di_fur_2=Please note that this game is not official. And that nothing here is canon to the actual "My Singing Monsters" game. Thank you.
+di_fur_3=Let's begin with getting a monster!
+di_fur_4=Can you hear that? The noggin is tapping its noggin to create an unusual sound! Let's see whom else we can get.
+di_fur_5=This is groovy! How about a snack? Let's feed our monsters some food.
+di_fur_6=Every time you feed your monster, its level goes up. Monsters above level 4 can be bred.
+di_fur_7=Let's try breeding new monsters to add to the song.
+di_fur_8=Use diamonds to speed up the breeding process.
+di_fur_9=Well done!\nOoh, look! A Diamond! They can appear anywhere and be picked up for your use.
+di_fur_10=Not bad. You are getting the hang of it. Keep breeding and caring for your monsters and don't forget to check the tasks. Good luck!
+
+
+-----Credits
+str_credits_music=Music & Sound
+str_credits_animation=Animation
+str_credits_art=Art
+str_credits_3d=3D art
+str_credits_voices=Voices provided by
+str_credits_testers=Testers
+str_credits_texts=Writing
+str_credits_thx=Special thanks
+str_credits_translation=Translations
+
+str_credits_tr_nd=Dutch
+str_credits_tr_ru=Russian
+str_credits_tr_pt=Portuguese
+str_credits_tr_uk=Ukrainian

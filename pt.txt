@@ -1,0 +1,508 @@
+---new stuff
+btn_buy=Comprar
+
+---old stuff
+btn_mail=Correio
+btn_mail_view=VER
+btn_mail_collect=Reivindicar
+btn_mail_accept=Aceitar
+btn_mail_deny=Recusar
+btn_mail_ok=Ok
+str_mail=Correio
+str_mail_creator_gift=Um admnistrador do TLL te presenteou:
+str_mail_creator_gift_title=Presete de Diamantes Chegando!
+str_mail_creator_gift_desc=Você recebeu um presente de um admnistrador do TLL- Lembre-se de reivindicá-lo!
+
+str_mail_gift=Você ganhou um presente!\nIt's:
+str_mail_gift_desc=Você ganhou um presente, não se esqueça de coleta-lô!
+
+str_mail_reward_gift=Você ganhou um sorteio!\nAqui está seu prêmio!
+str_mail_reward_gift_title=Recompensa do sorteio chegando!
+str_mail_reward_gift_desc=Você ganhou um prêmio! Não se esqueça de coleta-lo. Tenha uma diversão monstruosa!
+
+str_mail_holiday_gift=Feliz Feriados!\nNós temos um presente para está ocasião:
+str_mail_holiday_gift_title=Holiday Gift Incoming!
+str_mail_holiday_gift_desc=Happy Holidays! And the best way to celebrate this magical time of year is to spread the love with some gifts- like the one attached to this message!
+
+str_mail_holiday_christmas_Catholic_gift=Feliz natal!\nAqui está seu presentinho:
+str_mail_holiday_christmas_Catholic_gift_title=Feliz Natal católico!
+str_mail_holiday_christmas_Catholic_gift_desc=Feliz Natal católico! Não importa como você celebra essa data, nós lhe desejamos que tenha um bom dia nessa data tão especial! Então, aqui, pegue esse presentinho
+
+str_mail_holiday_christmas_Orthodox_gift=Feliz natal!\nAqui está seu presentinho:
+str_mail_holiday_christmas_Orthodox_gift_title=Feliz Natal!
+str_mail_holiday_christmas_Orthodox_gift_desc=Feliz Natal! Não importa como você celebra essa data, nós lhe desejamos que tenha um bom dia nessa data tão especial! Então, aqui, pegue esse presentinho
+
+str_mail_holiday_hanukkah_gift=Happy Hanukkah!\nHere's a gift for the occasion:
+str_mail_holiday_hanukkah_gift_title=Happy Hanukkah!
+str_mail_holiday_hanukkah_gift_desc=Happy Hanukkah! Candelavra's got the Menorah lit, Mammott is enjoying the festivities, and YOU just got some extra goodies!
+
+str_mail_holiday_valentines_gift=Happy Valentine's Day!\nHere's a gift for the occasion:
+str_mail_holiday_valentines_gift_title=Happy Valentines Day!
+str_mail_holiday_valentines_gift_desc=Happy Valentine's Day from Raw Zebra and the MSM:TLL Devs! Have a love-ly day and enjoy the enclosed gift!
+
+str_mail_holiday_patricks_gift=Happy St. Patrick's Day!\nHere's a gift for the occasion:
+str_mail_holiday_patricks_gift_title=Happy St. Patricks Day!
+str_mail_holiday_patricks_gift_desc=It's your lucky day- some gifts in celebration of St. Patrick's day!
+
+str_mail_holiday_easter_gift=Happy Easter!\nHere's a gift for the occasion:
+str_mail_holiday_easter_gift_title=Happy Easter!
+str_mail_holiday_easter_gift_desc=Happy Easter from Raw Zebra and the MSM:TLL Devs! Put your sleuthing and hunting to good use and figure out how to open up this reward...
+
+str_mail_holiday_summer_gift=Happy Summer Holidays!\nHere's a gift for the occasion:
+str_mail_holiday_summer_gift_title=Sunny Surprise Inside!
+str_mail_holiday_summer_gift_desc=Happy Summersong! Collect your Sunny Surprise here!
+
+str_mail_holiday_halloween_gift=Have a spOoOoOky Halloween!\nHere's a gift for the occasion with some sweets:
+str_mail_holiday_halloween_gift_title=Spooky Surprise Inside!
+str_mail_holiday_halloween_gift_desc=BOO! Punkleton did some digging in the deep underground and found these Diamonds just for you! 
+
+str_mail_holiday_muertos_gift=Happy Day of the Dead!\nHere's a gift for the occasion:
+str_mail_holiday_muertos_gift_title=Day of the Dead Diamond Delivery!
+str_mail_holiday_muertos_gift_desc=Have a Delightful Dia de los Muertos, and celebrate both Mexican Culture and all cultures! Take this gift as a reward for being such a great person -Azuran and the other TLL Devs
+
+str_mail_clear_data=Olá! Essa mensagem é para notificar a você que se seu jogo teve algum problema com versões anteriores e acabou quebrando o seu save(Monstros desaparecento ou indo para fora da ilha etc..), E saber se você gostaria de limpar seus dados do jogo, após apertar "aceitar" o jogo irá fechar.
+str_mail_clear_data_title=Por-Favor confirme se você quer limpar seus dados do jogo.
+str_mail_clear_data_desc=Para PERMANENTEMENTE APAGAR seu progresso no MSM: TLL, por favor aperte o botão na direita! Obrigado. 
+
+d_furcorn_marsh_1=Uau, olhe só para isso!
+d_furcorn_marsh_2=Algo aconteceu nesse lugar...
+d_furcorn_marsh_3=O local ficou diferente...
+d_theremind_marsh_1=lmao
+
+costume_monster_toejammer_adult_2=Sempre tem espaço
+costume_monster_toejammer_adult_3=Uma gotinha sofisticada
+costume_monster_toejammer_adult_4=Alien legalizado
+
+costume_monster_dandidoo_adult_2=Frango quente
+
+costume_monster_kikimora_adult_2=Big shot
+
+costume_monster_spunge_adult_2=Esponja enferrujada
+
+costume_monster_bannik_adult_2=DINHEIRO!
+
+costume_monster_frondley_adult_2=O bravo e o careca
+costume_monster_frondley_adult_3=O brinquedo de Cerberus
+costume_monster_frondley_adult_4=Bonito e mimado
+costume_monster_frondley_adult_5=Ring-ring!
+
+costume_monster_yaga_adult_2=Vara doce
+
+costume_monster_vodyanoy_adult_3=Nevoeiro da Borgonha
+
+costume_monster_likho_adult_2=Densidade super-special 
+costume_monster_likho_adult_3=Se não o bixo pega!
+
+str_item_nottsurr-rock=Gema Nãocerteza
+str_item_nottsurr-wool=Lã
+str_item_nottsurr-wood=Toco Nãocerteza
+str_item_nottsurr-bone=Osso
+str_item_nottsurr-darkmatter=Energia Almax
+
+costume_monster_flootfly_adult_2=Baga das fadas
+
+costume_monster_oaktopus_adult_1=Dr. Oak
+costume_monster_oaktopus_adult_2=Negocios serios
+
+costume_monster_leshy_adult_2=Espah-guetti
+costume_monster_leshy_adult_3=Senhor Pinheiro
+
+costume_monster_quibble_adult_2=Modo escuro
+
+costume_monster_vodyanoy_adult_2=Eu quero voar
+
+str_nocostume=Sem fantasia.
+
+name_island_knottsurr=Ilha da Nãocerteza
+bio_island_knottsurr=Knottsurr island bio
+
+name_island_Candy=Ilha Doce
+bio_island_Candy=Candy Island bio
+
+btn_play=Jogar
+btn_exit=Sair
+btn_move=Mover
+btn_feed=Alimentar
+btn_flip=Virar
+btn_place=Colocar
+btn_cancel=Cancelar
+btn_zapper_eggs_list=Inventário
+btn_buy_more=Comprar mais
+btn_info=Info
+btn_map=Mapa
+btn_settings=Configurações
+btn_feedback=Feedback
+btn_mute=Silenciar
+btn_sell=Vender
+btn_zap_into_zapper=Energizar
+btn_store=Mercado
+btn_store_monsters=Monstros
+btn_store_decos=Decorações
+btn_store_strucs=Estruturas
+btn_breed_start=Procrie
+btn_breed=Procriar
+btn_send=Enviar
+btn_save_island_data=Salvar
+btn_load_island_data=Carregas
+btn_clear_island_data=Limpa
+btn_promotion_visit=Visitar
+btn_copy_user_id=Copiar ID de usuário
+btn_dialogue_next=Próximo
+btn_send_to_airship=Enviar
+btn_reset_currency=Resetar as Economias
+btn_performance=Modo otimizado
+btn_costume=Fantasias
+btn_fullscreen=Tela cheia
+btn_book=Coleção
+btn_craft=Construir
+btn_bake=Assar
+btn_collect_all=Coletar Tudo
+btn_repeat=Repetir
+
+str_airship=Zepelim eufônico
+str_airship_arrival=O zepelim chegará ao seu destino em\n<airship_time> 
+str_airship_retrieval=O zepelim irá retornar em\n<airship_time>
+str_characters_limit=Limite de 3000 caracteres
+str_feedback=Dê feedback e reporte bugs 
+str_feedback_hint_text=Inserir texto....
+str_not_enough_currency=Você não tem <item> o sufiente!\nJogue o jogo e colete mais <item> para finalizar a compra.
+str_item_diamonds=Diamantes
+str_item_coins=Moedas
+str_item_food=Comida
+str_monster_level=nvl:<level>
+str_monster_level_max=Max
+str_island_list=Escolha uma ilha
+str_loading_asset_bundles=Carregando pacotes de assets
+str_loading_names=Buscando nomes
+str_loading=Carregando
+str_loading_error=Ocorreu um erro ao carregar os dados do jogo. Por favor olhe sua conexão à internet e tente outra vez.\nError: <error>
+str_net_error==Ocorreu um erro ao carregar os assets do jogo. O jogo deverá ser reaberto para poder instalar os assets novamente.\nError: <error>
+str_user_id_pre=Seu ID de usuário
+str_banned_title=Você foi banido!
+str_banned=Isso pode ter acontecido por causa de comportamento inadequeado ou uso de trapaças. Se você acha que isso foi um engano, nos contate.
+str_loading_upadte_id=Carregando identificador de atualizações...
+str_breeding_monster_1=Monstro 1
+str_breeding_monster_2=Monstro 2
+str_popup_breeding_both=Você tem que escolher no minimo dois monstros para a prociração.
+str_level_limit=Você não pode alimentar um monstro acima do nível 20.
+str_enter_name=Isso não pode ficar vázio.
+str_popup_breeding_congrats=Parabéns! Você procriou:\n<monster_name>
+str_popup_breeding_whattodo=O que você quer fazer com esse monstro??
+str_popup_breeding_speedup=Você gostaria de terminar a procriação por <amount> diamante(s)?
+str_popup_bakery_purchace=Você gostaria de comprar <food_amount> comida por <amount> <item>?
+str_popup_mail_claim_monster_error=Esse monstro não foi enviado para essa ilha. Por favor reivindique-o em <island_name>.
+
+str_breeding_result=Procriação vai durar:<breeding_time>\nGostaria de acelerar o processo por <amount> <item>?
+str_breeding_ready=Você criou...\n<monster_name>!\nIncubação vai durar\n<hatch_time>\nGostaria de acelerar o processo por <amount> <item>?
+str_hatching=Você eclodiu...\n<monster_name>!\nO que você gostaria de fazer com esse monstro agora?
+btn_hatch_wait=Esperar
+btn_hatch_skip=Acelerar
+btn_hatch_zap=Energizar
+str_breed_retry=Tentar novamente essa combinação de criação?
+btn_speedup=Acelerar
+str_sale=PROMOÇÃO!
+
+
+-----popups
+btn_yes=Sim
+btn_no=Não
+btn_ok=OK
+
+str_popup_send=Você tem certeza que quer enviar <monster_name> para o(a) <island>?
+str_popup_send_tickets=Você não tem tickets o suficiente para enviar <monster_name> para o(a) <island>. 
+str_popup_send_level=<monster_name> tem que alcançar o nível <required_level> para ser enviado até o(a) <island>. 
+str_popup_not_enough_currency=Você não tem <item> o suficiente!\nJogue o jogo e colete mais <item> para finalizar a transação. 
+str_popup_sell=Você tem certeza que quer vender <monster_name> por <amount> <item>? 
+str_popup_limit=Você não pode ter mais do que <entity_max> disso.
+
+-----monsters
+name_monster_potbelly_adult=Planta-Pança
+bio_monster_potbelly_adult=A Planta-Pança é uma criatura barulhenta e extrovertida, constantemente tagalerando coisas sem sentido para todos que as podem ouvir. As vezes no meio de um conversa entre vários monstros, uma Planta-Pança qualquer se retira de seu pote e se estabelecer na tagarelice, às vezes nem mesmo percebebendo que os seus tentáculos enraizados engolfando seu ouvinte ansioso, felizmente, hoje em dia os monstros aprenderam a ficar longe ou a lembrar gentilmente a Planta-Pança de se afastar um pouco, e as coisas vão bem a partir daí.
+costume_monster_potbelly_adult_2=Impastah
+costume_monster_potbelly_adult_3=Wally W
+
+name_monster_tweedle_adult=Pintinho Piu
+bio_monster_tweedle_adult=Pintinho Pius adultas são conhecidas por migrar muito de ilhas para ilhas, às vezes elas viajam para visitar seus amigos, e raramente elas até se mudam para um dessas ilhas nas quais elas visitaram, e após sua chegada, seus companheiros monstros ajudam elas a entender como as coisas funcionam por lá. Podemos dizer que elas são realmente aves aventureiras!!
+costume_monster_tweedle_adult_2=Frango frio
+
+name_monster_toejammer_adult=Dedo Enrroscado
+bio_monster_toejammer_adult=Os Dedo Enrroscados adultos têm uma personalidade muito borbulhante e são ótimos nadadores quando vivem na água, eles também são conhecidos por serem convidados para muitas festas e piqueniques com os seus amigos Mosca-da-Flauta, eles realmente sabem como se divertir!
+
+name_monster_flootfly_adult=Mosca-da-Flauta
+bio_monster_flootfly_adult=A mística Mosca-da-Flauta é um dos monstros mais comuns de se encontras nas Paisagens Perdidas, pois, ele é um dos mais amigáveis nos arredores! Moscas-da-Flauta amam fazer festas do chá nos lugares mais bizarros! Convites para uma festa do chá são sempre reverenciados e aceitos com alegria, porque é um ótimo lugar para socializar e fofocar!
+
+name_monster_dandidoo_adult=Dandidão
+bio_monster_dandidoo_adult=Os Dandidões adultas estão sempre se "doospersando" pelas paisagens. Elas sempre atrem uma grande multidão de monstros por causa de seu cabelo fofo, mas tenha cuidado quando com o que faz se um Esponjo estiver ao redor delas!
+
+name_oaktopus_adult=Carvalho-Polvo
+bio_oaktopus_adult=Carvalho-Polvos estão cheios de conhecimentos para compartilhar com o mundo, sobre o mundo! Eles quase sempre têm uma resposta para algumas das perguntas mais ardentes da vida, tais como: "Por que o céu é azul?", "Por que a água é molhada?", E a mais pergunta notável, "E maionese? É um instrumento?" (Essa resposta é inconclusiva, não existe um monstro de maionese). Às vezes, eles até dizem afirmações bizarras de ilhas que antes eram carregadas por criaturas gigantescas em todo o mundo dos monstros. Geralmente pode-se ver um Carvalho-polvo lendo um bom livro ou nadando em uma fonte termal local.
+
+name_monster_oaktopus_adult=Carvalho-Polvo
+bio_monster_oaktopus_adult=Carvalho-Polvos estão cheios de conhecimentos para compartilhar com o mundo, sobre o mundo! Eles quase sempre têm uma resposta para algumas das perguntas mais ardentes da vida, tais como: "Por que o céu é azul?", "Por que a água é molhada?", E a mais pergunta notável, "E maionese? É um instrumento?" (Essa resposta é inconclusiva, não existe um monstro de maionese). Às vezes, eles até dizem afirmações bizarras de ilhas que antes eram carregadas por criaturas gigantescas em todo o mundo dos monstros. Geralmente pode-se ver um Carvalho-polvo lendo um bom livro ou nadando em uma fonte termal local.
+
+name_monster_quibble_adult=Picuinha
+bio_monster_quibble_adult=A Picuinha pode parecer um monstro gracioso por fora, mas isso é apenas fingimento. As duas cabeças brigam constantemente, geralmente tendo opiniões opostas sobre as últimas tendências ou algum outro assunto trivial. Uma vez, a Picuinha da esquerda queria pedir batatas fritas, mas a Picuinha da direita estava ansiosa para tomar um milk-shake... O caos continuou. Mas no final, elas sempre se reconciliam, como verdadeiros irmãos. Sim, elas acabaram pedindo batatas fritas mergulhadas em um milk-shake. Um trato mais que feito.
+
+name_monster_kikimora_adult=Berimvoa
+bio_monster_kikimora_adult=Conhecida por sua propensão à caça, o melódico “Iah-há-há!” da Berimvoa ecoa por todos os cantos do Pântano Perene. Ela usa seu sua voz e seu "berimbau de nariz" longo para tentar atrair Dons Sapo jovens para seu cantinho no pântano, mesmo que isso não funcione com a frequência que ela gostaria. Na verdade, suas tentativas assustam suas presas escorregadias na maioria das vezes, deixando a Berimvoa triste e sozinha. É uma coisa triste sabe, já que ela realmente quer que novos clientes provem seus doces caseiros frescos!
+
+name_monster_spunge_adult=Esponjo
+bio_monster_spunge_adult=Esponjos adultos são assoviadores muito talentosos, eles conseguem soprar tão forte que às vezes eles acabam mandando seus colegas monstruosos para ilhas bem distantes! Apenas lembre-se de se esconder quando eles sopram suas velas de aniversário.
+
+name_monster_bannik_adult=Bannorio
+bio_monster_bannik_adult=Um vocalista do lendário Coro do Cancer, por muito tempo Bannorio passou seu tempo nas profundezas frias do oceano. Infelizmente, as temperatura congelantes não eram ideais para seu corpo acostumado com a água quente! Ao em vez de entrar em algo como um gêiser, ele decidiu ficar perto de seus amigos utilizando um balde de madeira cheio de água fervendo para se manter confortável. Embora seu abdômen vermelho fervente possa parecer nada saudável, não há com o que se preocupar, Bannorio afirma que é apenas sua cor natural aparecendo após a limpeza de milhares de anos de sujeira do mar.
+
+name_monster_phangler_adult=Peixanzol
+bio_monster_phangler_adult=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Bannorio e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixanzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixanzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
+
+name_monster_coral_adult=Corallê
+bio_monster_coral_adult=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Corallê! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Corallês tapeiam o monstros com seu disfarce se alguém chega muito perto, e logo após perceberem os monstros pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
+
+name_monster_frondley_adult=Folhamável
+bio_monster_frondley_adult=O Folhamável é ummmmmmmmmm espécime incrível! Seu físico gelatinoso e dedos nos quais podem se assimilar à certo monstro, no qual certamente monstro evoluiu separadamente do nosso companheiro de cor amarela. Seus zumbidos sobrenaturais e serenos ecoam pelas ilhas, sempre afirmado que um Folhamável está presente lá. Alguns monstros vão até longas distancias só para gravar seu zumbido, para que depois eles possam se colocar para dormir escutando esse som calmo. Em outras atividades, Folhamáveis adoram manter seu penteado "tipo-alga", enquanto sempre se esforçam para encontrar a quantidade perfeita de cabelo para seus crânios bulbosos.
+
+name_monster_yaga_adult=Stupa
+bio_monster_yaga_adult=Não se sabe muito sobre o pântano enevoado no coração de Evergreen Woods, mas há boatos de um estranho monstro que vigia e conduz a canção dos monstros que ali residem. E olhe só, ele está aqui! Stupa é ainda mais especializada em reciclagem do que o Tambor-Tronco, coletando qualquer coisa na natureza para tocar na sua parte na canção, mesmo que tenha que fazer algumas exceções em sua regra de "tudo natural"... send elas suas panelas de potes contidos em seu... pilão? Ainda se sabe muito pouco sobre ela, e Stupa prefere manter as coisas assim. Enquanto isso, este monstro misterioso maneja seu estranho cajado e guarda os segredos do Pântano.
+
+name_monster_maulch_adult=Composto
+bio_monster_maulch_adult=Esteja preparado para se abaixar até que esteja dois metros abaixo do solo, e o Composto estará lá! Eles passam grande parte de seus dias enterrados no chão, até que eles saiam, completamente energizados e prontos para mandar uma dança daquelas. Alguns dos movimentos pendentes de assinatura do Composto incluem o "Mexeochão"", o "Sujeirador" e o "MMMWWHAAAAALWHAAL". Se você fizer esse último movimento de dança, há uma pequena chance de adormecer por 3 dias seguidos. Composto faz isso de qualquer maneira, pois ele não se importa com o que você acha que é arriscado.
+
+name_monster_vodyanoy_adult=Vódi
+bio_monster_vodyanoy_adult=Bem abaixo dos oceanos escuros e úmidos das Paisagens Perdidas vivem milhares de monstros do elemento água, porém se você decidir dar um mergulho nas poças do Pântano Perene, você poderá ouvir o "uai" encharcado de um Vódi caipira! A criatura com essa aparência de peixe bolha azul claro pode viver entre a terra e o mar graças às suas poderosas barbatanas de sereia para ajudar a remar ao longo do caminho e também gosta de bater as escamas da barriga para ajudá-lo a iluminar o caminho nas noites escuras, mas outra coisa que questionam muito sobre sua existência estranha... Ele é realmente um peixe bolha??? Ou seria uma sereia??? Talvez nunca saibamos a resposta!!! 
+
+name_monster_likho_adult=Boco
+bio_monster_likho_adult=Se você ver um Boco, saiba que acabou de encontrar um cara maneiro! Bocos são pequenos arbustos secos, rolando por aí e colhendo todos os tipos de plantas e geralmente presenteando outras, mesmo que elas não gostem tanto quanto o presenteador. Mas não só isso, quando para, prepara uma... Canção "maravilhosa" para seus companheiros, que geralmente resulta em seu público gritando "FAZ ISSO PARAR!" Não sei do que se trata... E prefiro não saber!
+
+name_monster_leshy_adult=Dulsilvestre
+
+bio_monster_leshy_adult=O entalhado Dulsilvestre é uma criatura de madeira e intemperismo, mantido unido por seu núcleo sólido, é um monstro que pode parecer meio grosseiro a primeira vista. Conhecido por nunca falar e ser sempre carrancudo, o mau humor de Dulsilvestre nada mais é do que algo causado pelo fato de que sua boca está bem travada nessa sua forma atual. Na verdade, o verdadeiro monstro vive nas pequenas criaturas que residem na única parte verdadeiramente cheia de vida desse ser, que são os seus galhos elevados. Essas criaturinhas, que as vezes são chamadas de Silvinhos, destampam e tapam os buracos abertos em seus galhos ancestrais enfermos para permitir a passagem do ar, dando ao Dulsilvestre um meio de comunicação com seus vizinhos. Uma vez que Dulsivan misticamente se transforma em uma pinha, os Silvinhos começarão a crescer e se transformar rapidamente em jovens Dulsilvestres!
+
+
+name_monsterYoung_flootfly=Mosca-da-Flauta
+bio_monsterYoung_flootfly=As jovens Moscas-da-Flauta foram conhecidas como um mito por muito, muito tempo, até que decidiram entrar no mundo e espalhar suas pequenas asas pela Cidade Flutuante, alguns dizem que seu disparo de ar soa de seu tubo como um nariz e que pode fazer outros Jovens monstros ter sonhos muito bons, enquanto outros tendem a tentar vê-lo sem sua máscara e digamos que ninguém realmente deu uma grande olhada nele ainda.
+
+name_monsterYoung_theremind=Theremind
+bio_monsterYoung_theremind=Os jovens Terementes podem ser pequenos, mas isso não os impede de ter cérebros gigantes e ideias ainda maiores! Embora eles não sejam conhecidos por sua tagarelice ou mesmo muita conversa afinal, eles costumam usar suas ondas cerebrais poderosas para se comunicarem subliminarmente diretamente com os outros e às vezes se intrometem para ver o que outros monstros realmente pensam sobre certas contravenções...
+
+name_monsterYoung_fluoress=Fluoresca
+bio_monsterYoung_fluoress=The Young Fluoress is nearly as fluorescent as its adult counterpart, well almost. The Fluoress uses an “RGB” Light grid, while the adult uses an.. “ROYGBP”? grid?? Im getting off track here, The keeper of the Light elements childhood is the most amazing thing any monster can see, it developing from 3 ‘dress’ parts into 6, visible atleast…
+
+name_monsterYoung_clackula=Clackula
+bio_monsterYoung_clackula=Estráculas jovem são diferentes da maioria dos monstros jovens, pois eles são tão tímidos e associais quanto os Estráculas adultos. É preciso bastante conversa para conseguir fazer um bebê Estrácula abrir a boca. Entretanto, com paciência e dedicação o suficiente, até o Estrácula mais fechado pode tirado de seu casulo! Bebês Estracula costumam ter uma tendência de dançar no seu tempo livre, e o mais extrovertido do grupo vai até mesmo tentar chamar uma Fluoresca ou Candelavra desconhecidas para a pista de dança de uma maneira "espetrácular". Na maioria das vezes, uma de suas mão-bocas mais sapecas tentam achar um jeito de morder os seus parceiros de dança, e bem, isso explica porque a maioria dos Estráculas não tentam passos como esse uma segunda vez.
+
+name_monsterYoung_osstax=Osstax
+bio_monsterYoung_osstax=Sabe-se que Pilhossos começam a vida deles como indivíduos únicos que depois se juntam. Isso normalmente leva anos, pois eles precisam se encaixar perfeitamente em ordem para ser um Pilhossos completo, mas para os poucos Pilhossos que encontram o par perfeito cedo, você vê uma cena como esta! Fofo não?! Pilhossos bebês, apesar de serem geralmente sedentários, ainda são capazes de ter todo tipo de plano para qualquer problema. Eles facilmente conseguem conspirar com os outros membros de sua pilha, e usar este poder dobrado para se tornarem imprevisíveis. Eles geralmente dizem que duas cabeças pensam melhor do que uma!
+
+name_monsterYoung_brump=Sapovudo
+bio_monsterYoung_brump=Aww! O mais experientes em monstrologia estão bem ciente das... Características únicas de um Sapovudo. Sendo feitos de argila por uma Wub-Caixa solitária, mas ninguém esperava que tal monstro houvesse uma forma juvenil como visto na Cidade Flutuante, mas esse pequeno Sapovudinho prova o contrário, ele mostra que até o monstro mais pegajoso pode ficar fofo! Ainda não acostumados seus pés de sapo, Sapovudinhos no entanto, tentam passar seu tempo vagando pela Cidade Flutuante. Qualquer cuidador de monstros nos quais pensam sobre o futuro terá a certeza de mantê-los longe de qualquer penhasco, para evitar qualquer tipo de missão de resgate de monstros aérea!
+
+
+name_monsterYoung_oaktopus=Carvalho-Polvo
+bio_monsterYoung_oaktopus=Os jovens Carvalho-Polvos estão cheios de vontade para aprender sobre o mundo, de compartilhar com o mundo! Se eles virem algo, há 96,4672345287% de chance que eles tenham algo a perguntar sobre isso. A maioria das perguntas é se eles podem comer tais objetos. Um jovem Carvalho-Polvo adora brócolis acima de tudo, devorando-os à primeira vista. Outros amantes de folhas verdes acabam perseguindo as pobres mudas de Carvalho-Polvo, pensando que são brócolis! Carvalho-Polvo tem gosto de meias sujas. Portanto: não consuma o carvalho.
+
+name_monsterYoung_yool=Papai-Yule
+bio_monsterYoung_yool=Ninguém é melhor no espírito festivo do que o Papai-Yule! Enquanto um Papai-Yule adulto usa sua natureza migratória para fazer uma pausa durante o período de férias sazonal, Papais-yule bebês vão tratar cada dia como se fosse os 12 dias do Hei, enchendo os corredores com presentes e doces a todo lugar que eles forem. No entanto, seu entusiasmo combinado com adereços delicados significa que suas surpresas de hei muitas vezes não acontecem conforme o planejado, gerando monstros assustados e ornamentos quebrados. "Graças a Galvana" os sinos em seus chifres revelam sua localização, é difícil imaginar os tipos de problemas que eles teriam sem esses sinos!
+
+name_monsterYoung_jeeode=Jeode
+bio_monsterYoung_jeeode=Enquanto a Jeode adulta é reconhecida por suas habilidades de resolução de conflitos, bebês geralmente não são conhecidos por tal previsão. As "jeodinhas" são imaturas, e muitas vezes se mantêm em um padrão mais elevado no qual não se é esperado em uma idade tão jovem, e muitas vezes levando a vários mal entendidos e falsos julgamentos. Embora essa busca seja o que acabaria por aprimorar sua imparcialidade impecável, qualquer bom amigo irá tentar acalma-las antes que elas vão a uma área mais profunda de suas mentes. Apesar de tudo, comunicação é algo muito importante em qualquer relacionamento, então ser claro como um cristal é calorosamente apreciado!
+
+name_monsterYoung_stogg=Stogg
+bio_monsterYoung_stogg=Young Stogg bio
+
+name_monsterYoung_schmoochle=Schmoochle
+bio_monsterYoung_schmoochle=Young Schmoochle bio
+
+name_monster_stone_6=Monte Pilhagem
+bio_monster_stone_6=Mount Mound bio
+
+name_monster_stone_7=Floraca
+bio_monster_stone_7=Flocca bio
+
+name_monster_stone_5=Monte Palitident
+bio_monster_stone_5=Mount Tuzzpikk bio
+
+name_monster_spamton=Spamton G. Spamton
+bio_monster_spamton=Me dê o seu [Kromer] ou sofra o [Cagaço Interno].
+
+name_undof_monster_test=Fwide
+bio_undof_monster_test=Fwide
+costume_undof_monster_test_2=Amassado... tudo amassado...
+
+name_monster_gumtromp_adult=Chimplete
+bio_monster_gumtromp_adult=Gumtromp biro
+
+name_monster_keytrus_adult=Melocitrus
+bio_monster_keytrus_adult=Keytrus bio
+
+name_monster_koodahcane_adult=Cavalo Docinho
+bio_monster_koodahcane_adult=Koodahcane bio
+
+name_monster_marshflamo_adult=Marchamallow
+bio_monster_marshflamo_adult=Marshflamo bio
+
+name_monster_choccosour_adult=Brasscoito
+bio_monster_choccosour_adult=Choccosour bio
+
+name_monster_jawbreaker_adult=Quebratida
+bio_monster_jawbreaker_adult=Jawbreaker bio
+
+name_monster_claramel_adult=Claramelo
+bio_monster_claramel_adult=Claramel bio
+
+name_monster_cakehorn_adult=Confesteiro
+bio_monster_cakehorn_adult=Cakehorn bio
+
+name_undof_monster_noggin=Cabeça Dura
+bio_undof_monster_noggin=Noggin bio
+costume_undof_monster_noggin_2=Rock candy
+
+name_undof_monster_toejammer=Dedo Enrroscado
+bio_undof_monster_toejammer=Toe Jammer bio
+costume_undof_monster_toejammer_2=Meias do Esplendor
+
+name_undof_monster_kayna=Lavareda
+bio_undof_monster_kayna=I’m Kanye
+
+name_undof_monster_jamboree=Confolião
+bio_undof_monster_jamboree=Jam boree bio
+
+name_undof_monster_thrumble=Cantarolador
+bio_undof_monster_thrumble=Thrumble bio
+
+name_undof_monster_stogg=Estegão
+bio_undof_monster_stogg=Stogg bio
+
+name_undof_monster_phangler=Peixanzol
+bio_undof_monster_phangler=I SING
+
+name_undof_monster_fwog=Dom Sapo
+bio_undof_monster_fwog=wiggle
+
+name_monster_stone_1=Árvore Não-Certeza
+bio_monster_stone_1=Knottsurr tree bio
+
+name_monster_stone_2=Bay
+bio_monster_stone_2=Bay bio
+costume_monster_stone_2_2=Toorkeech ambassador
+
+name_monster_stone_3=Vaso Almax
+bio_monster_stone_3=It's pronounced "souls"
+
+name_monster_stone_4=BoOoo
+bio_monster_stone_4=BoOoo bio
+costume_monster_stone_4_2=Rootithumpie
+
+-----decos
+name_deco_jar=Partes reserva
+bio_deco_jar=Spare parts bio
+
+name_deco_jugler=Tulipa malabarista
+bio_deco_jugler=Juggle tulip bio
+
+name_deco_bucket=O balde de taboas
+bio_deco_bucket=Parece que alguém arrancou algumas taboas do do Patano Perene e os colocou em um balde de água para mantê-los vivos! Legal!
+
+name_deco_upside-tree=Árvore de baga emborcada
+bio_deco_upside-tree=Capsize berry tree bio
+
+name_monster_dancer=O dançarino
+bio_monster_dancer=O dançarino está rodeada de coisas estranhas. A coisa mais estranha e, talvez, a parte mais assustadora é... como.... você está lendo isso? \nIsso não deveria estar disponível para um jogador comum....
+name_monster_cursed_adult=A coisa...
+bio_monster_cursed_adult=Oh uau! Como você está lendi isso? Caso você não seja um testador desse jogo, eu não faço ideia de como você adquiriu.... essa coisa na sua ilha. Ah bem!/nEssa coisa é apenas algo que eu criei para testes. Mas acho que essa coisa será transformada em uma decoração. Talvez um tipo de poste.
+
+name_deco_baloony=Baluni
+bio_deco_baloony=Eles o chamam de amigo substituo. Monstros solitários vêm até o Baluni a qualquer momento para compartilhas suas histórias com ele. Nosso "amigo" costumava voar livremente por aí, explorando o mundo monstros, mas eles acabou ficando preso entre duas pedras sem nada para fazer além de se balançar serenamente de um lado para o outro. Ninguém sabe quem fez o Baluni, mas os rumores dizem que se assemelha levemente à sua criação. Quem sabe, talvez nós iremos o conhecer algum dia.
+
+name_deco_tlTotem=O Totem Perdido
+bio_deco_tlTotem=Monstros costumam passar o tempo nomeando as cabeças de monstro estilizadas que compõem o Totem Perdido. Embora a maioria de seus nomes já são conhecidos, todos concordam que o nome do Thumpie de baixo é 'Nubert'. Meu caro!
+
+name_deco_heart_tree=Ipê cardíaco
+bio_deco_heart_tree=Ok... Eu já vi várias coisas nojentas vindas da Terra dos Orgãos mas isso aqui supera tudo. Tipo, o que diabos no mundo monstro de Galvana é isso!? Isso é só... UGH! Eu tenho que usar o banheiro, eu acho que vou vomitar...
+
+name_deco_flowers=Florolhos
+bio_deco_flowers=Florolhos são pouco vistas na maior parte do mundo atual dos monstros. Consideradas parentes da árvore Ockulo, as Florolhos não são capazes de produzir som, o que as torna ouvintes maravilhosos! A maioria não tenta puxar conversa, entretanto, eles simplesmente não conseguem... parar... de... OLHAR!
+
+name_deco_dragoon=Vaso do Gadrão
+bio_deco_dragoon=Os Gadrões certamente são parentes de dragões ancestrais! É realmente estranho como eles são semelhantes. As mandíbulas ferozes, a cauda com barbatanas, o corpo serpentino... O que? Quer dizer que você não vê a semelhança?
+
+name_deco_tongue_tree=Yucca-Ling
+bio_deco_tongue_tree=Yucca-Ling, apesar das aparências, não consistem apenas em línguas genuínas de monstros. Porém, isso não os impede de se inclinar sobre qualquer monstro distraído e babar em cima deles. Eca!
+
+-----structures
+name_struc_breeding=Estrutura de procriação
+bio_struc_breeding=Contemplem, a primeira e única, estrutura de procriação!\nHá muito tempo atrás, os monstros utilizavam essa ferramenta útil para para descobrir novos monstros, graças ao poder de seus ovos e ao amor que os cria todos de uma maneira única. Mas às vezes a criação pode ser inesperada e produzir uma versão diferente de monstro... quem sabe o que você obterá???
+
+name_struc_nursery=Encubadora
+bio_struc_nursery=Nursery bio
+
+name_struc_builder=O Amalgamador
+bio_struc_builder=The Amalgamator bio
+
+name_struc_bakery=Padaria
+bio_struc_bakery=No céu tem pão? e morreu...
+
+name_struc_bass=Maquina de Baixo
+bio_struc_bass=Davie aprooves.
+
+-----islands
+name_island_EM=Pântano Perene
+bio_island_EM=Espreitando nas profundezas da "Floresta perene", surge o sempre crescente "Pântano Perene". Apesar de a pátria do pântano já estar enfeitiçada, a paisagem viscosa está cada vez mais encantada com criaturas de contos de fadas de todo o Eslavo. As lendas afirmam que um ser que outrora maravilhado até o atoleiro pantanoso verá o mundo díspar. Poucos apreciam a mudança dada a si mesmos pelo lugar enfeitiçado que é o Pântano Perene, então tome cuidado e dê passos cautelosos, pois no coração do pântano o futuro é mais sombrio do que a água pantanosa e mais nublado do que a cúpula esmeralda vista acima dos céus de lá...
+
+name_island_Sity=Cidade Flutuante
+bio_island_Sity=Floating City bio
+
+name_island_Seasonal=Englomerado Sazonal
+bio_island_Seasonal=Seasonal conglomerate bio
+
+name_island_Lullaby=Berço Sereno
+bio_island_Lullaby=Serene Cradle
+
+name_island_Organ=Terra dos Orgãos
+bio_island_Organ=Terra of Organs bio
+
+name_island_Walrus=Cavernas da Morsa
+bio_island_Walrus=Walrus Caves bio
+
+name_island_Farm=Fazenda Suspensa
+bio_island_Farm=Suspended farm bio
+
+name_island_unknown=???
+bio_island_unknown=Você não descobriu essa ilha ainda. Ela provavelmente estará disponível no futuro.
+
+-----tasks
+task_breed_monster=Procrie e coloque um(a) <entity>.
+task_buy_monster=Compre e coloque um(a) <entity>.
+task_go_to_level=Chegue ao nivel <level>.
+task_unlock_island=Desbloqueie <island>.
+task_feed_monster=Alimente um monstro até o nível <level>.
+task_collect_money=Colete e guarde<amount> moedas.
+task_clear_obstacles=Remova <amount> <obstacle>s.
+
+-----Dialogue
+di_fur_1=Olá! Seja Bem-vindo(a) ao My Singing Monsters: As Paisagens Perdidas 
+di_fur_2=Alias, saiba que esse jogo não é oficial. E nada aqui é canônico no universo do jogo "My Singing Monsters". Obrigado. 
+di_fur_3=Vamos começar conseguindo um monstro! 
+di_fur_4=Você consegue ouvir isso? O Cabeça-Dura está batendo em sua cabeça dura para criar um som único! Vamos ver quem mais a gente consegue adquirir. 
+di_fur_5=Isso é bacana! Que tal um lanchinho? Vamos alimentar os nossos monstros com um pouco de comida. 
+di_fur_6=Toda vez que você alimenta um monstro, o seu nível aumenta. Monstros acima do nível 4 podem procriar. 
+di_fur_7=Vamos tentar procriar um novo monstro para termos uma adição na música 
+di_fur_8=Use diamantes para acelerar o processo de criação 
+di_fur_9=Bom trabalho!\nOoh, veja! Um Diamante! Eles podem aparecer em qualquer lugar e podem ser coletados para o seu uso. 
+di_fur_10=Nada mal. Você está pegando o jeito disso. Continue procriando de cuidando dos seus monstros e não se esqueça de checar as tarefas. Boa sorte! 
+
+
+-----Credits
+str_credits_music=Música e Sons
+str_credits_animation=Animação
+str_credits_art=Arte
+str_credits_3d=Arte 3d
+str_credits_voices=Vozes providas por
+str_credits_testers=Testadores
+str_credits_texts=Escrita
+str_credits_thx=Obrigado especial
+str_credits_translation=Traduções
+
+str_credits_tr_nd=Holandês
+str_credits_tr_ru=Russo
+str_credits_tr_pt=Português
+str_credits_tr_uk=Ucraniano

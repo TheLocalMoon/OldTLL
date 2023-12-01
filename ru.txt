@@ -1,0 +1,410 @@
+-----New stuff
+btn_buy=Buy
+
+btn_book=Collection
+
+name_island_Candy=Candy Island
+bio_island_Candy=Candy Island bio
+
+
+name_monster_stone_6=Гораоотвод
+bio_monster_stone_6=Mount Mound bio
+
+name_monster_stone_7=Пушинкас
+bio_monster_stone_7=Flocca bio
+
+name_monster_stone_8=Пушинкас
+bio_monster_stone_8=Flocca bio
+
+
+name_monster_spamton=Спамтон Г. Спамтон
+bio_monster_spamton=Дай мне свой [кромер] или терпи [вечную какашку]
+(not nececary)
+
+name_undof_monster_test=Ля широкий
+bio_undof_monster_test=Ля широкий
+costume_undof_monster_test_2=All squashed.....Just squashed
+(not nececary)
+
+str_popup_breeding_congrats=Поздравляем! Вы развели:\n<monster_name>
+str_popup_breeding_whattodo=Что бы вы хотели с ним сделать?
+str_popup_breeding_speedup=Хотели бы вы закончить разведение за <amount> бриллиант(а/ов)?
+
+btn_speedup=Ускорить
+
+btn_craft=Создать
+costume_monster_tweedle_adult_2=Замороженная цыпочка
+
+costume_monster_toejammer_adult_2=Всегда есть место
+costume_monster_toejammer_adult_3=Утончённая капля
+costume_monster_toejammer_adult_4=Иноземный турист
+
+costume_monster_dandidoo_adult_2=Подгорелая цыпочка
+
+
+costume_monster_kikimora_adult_2=Большая шишка
+
+costume_monster_spunge_adult_2=Гупсбургер
+
+costume_monster_bannik_adult_2=ДЕНЬГИ!
+
+costume_monster_frondley_adult_2=The brave and the bald
+costume_monster_frondley_adult_3=Пищалка Цербера
+costume_monster_frondley_adult_4=Pretty & Pampered
+costume_monster_frondley_adult_5=Белый шум
+
+costume_monster_yaga_adult_2=Леденцовая трость
+
+costume_monster_likho_adult_2=Выдержит любой удар
+costume_monster_likho_adult_3=Или мне не мешай!
+
+name_island_knottsurr=Остров Неуверен
+bio_island_knottsurr=Knottsurr island bio
+
+str_item_nottsurr-rock=Knottsurr gem
+str_item_nottsurr-wool=Wool
+str_item_nottsurr-wood=Knottsurr log
+str_item_nottsurr-bone=Bone
+str_item_nottsurr-darkmatter=Souxls energy
+
+-----Old stuff
+costume_monster_oaktopus_adult_2=Осьмилепс
+costume_monster_oaktopus_adult_3=Серьезное дело
+
+costume_monster_flootfly_adult_2=Феягода
+
+costume_monster_leshy_adult_1=Пса-гетий
+costume_monster_leshy_adult_2=Деревянный джентльмен
+
+btn_play=Играть
+btn_exit=Выход
+btn_move=Двигать
+btn_feed=Кормить
+btn_flip=Отразить
+btn_place=Поставить
+btn_cancel=Отмена
+btn_zapper_eggs_list=Инвентарь
+btn_buy_more=Купить больше
+btn_info=Инфо
+btn_map=Карта
+btn_settings=Настройки
+btn_feedback=Обратная связь
+btn_mute=Выключить
+btn_sell=Продать
+btn_zap_into_zapper=Засунуть
+btn_store=Магазин
+btn_store_monsters=Монстры
+btn_store_decos=Украшения
+btn_store_strucs=Здания
+btn_breed_start=Вывести
+btn_breed=Выводить
+btn_send=Отправить
+btn_save_island_data=Сохранить
+btn_load_island_data=Загрузить
+btn_clear_island_data=Очистить
+btn_promotion_visit=Посетить
+btn_copy_user_id=Копировать UserID
+btn_reset_currency=Сбросить валюту
+btn_performance=Оптимизированный режим
+btn_costume=Костюмы
+btn_fullscreen=Полноэкранный режим
+
+str_characters_limit=Не более 3000 букв
+str_feedback=Отзыв и отчет об ошибке
+str_feedback_hint_text=Введите текст ...
+str_item_diamonds=Бриллианты
+str_item_coins=Монеты
+str_item_food=Еда
+str_monster_level=ур:<level>
+str_monster_level_max=Макс.
+str_island_list=Выберите остров
+str_loading_asset_bundles=Загрузка пакетов ресурсов
+str_loading_names=Загрузка имён
+str_loading=Загрузка
+str_user_id_pre=Ваш UserID:
+str_banned_title=Вас забанили!
+str_banned=Это могло произойти из-за ненадлежащего поведения или взлома игры. Если вы считаете, что это ошибка, свяжитесь с нами.
+str_offline=Вы не в сети. \nПодключитесь к Интернету и снова откройте игру.
+str_loading_upadte_id=Загрузка идентификатора обновления
+str_breeding_monster_1=Монстр 1
+str_breeding_monster_2=Монстр 2
+str_popup_breeding_both=Вы должны выбрать как минимум двух монстров для их разведения.
+str_level_limit=Монстра не может достичь уровня выше 20.
+str_enter_name=Это нельзя оставлять пустым ...
+str_nocostume=Без костюма
+
+-----monsters
+name_monster_potbelly_adult=Брюшок
+bio_monster_potbelly_adult=Potbelly bio
+costume_monster_potbelly_adult_1=Leafy L
+costume_monster_potbelly_adult_2=Impastah
+
+name_monster_tweedle_adult=Легптица
+bio_monster_tweedle_adult=Tweedle bio
+
+name_monster_toejammer_adult=Палезатор
+bio_monster_toejammer_adult=Toe jammer bio
+
+name_monster_flootfly_adult=Мухофлейт
+bio_monster_flootfly_adult=Flootfly bio
+
+name_monster_dandidoo_adult=Дендиптица
+bio_monster_dandidoo_adult=Dandidoo bio
+
+name_monster_oaktopus_adult=Осьмидуб
+bio_monster_oaktopus_adult=Oaktopus bio
+
+name_monster_quibble_adult=Клавмный
+bio_monster_quibble_adult=Quibble bio
+costume_monster_quibble_adult_2=Dark mode
+
+name_monster_kikimora_adult=Варда
+vargan+prow+crow
+bio_monster_kikimora_adult=Varow bio
+
+name_monster_spunge_adult=Гупка
+bio_monster_spunge_adult=Spunge bio
+
+name_monster_bannik_adult=Баннокер
+bio_monster_bannik_adult=Banno bio
+
+name_monster_coral_adult=Хорал
+bio_monster_coral_adult=Choralle bio
+
+name_monster_likho_adult=Урыло
+bio_monster_likho_adult=Yap bio
+
+name_monster_leshy_adult=Древован
+bio_monster_leshy_adult=Dulsylvan bio
+
+name_monster_frondley_adult=Пальмуг
+bio_monster_frondley_adult=Frondley bio
+
+name_monster_yaga_adult=Ступа
+bio_monster_yaga_adult=До того, как Вечнозелёное болото было открыто монстрами, никто ничего не знал о Ступе наверняка из-за изолированности её места обитания. Зато о ней ходило много сплетен, в основном не особо приятных, как, например, она якобы ела монстров-малышей. Однако, когда Ступу увидел свет, все слухи о злобности этого индивидума испарились, потому что на самом деле Ступа души не чает в очаровательных маленьких монстрятах! Поэтому не волнуйтесь, если вы оставили своё чадо под опекой Ступы - она нянька, какую не сыскать на всём Болоте!
+
+name_monster_vodyanoy_adult=Вади-ной
+bio_monster_vodyanoy_adult=Wadee bio
+costume_monster_vodyanoy_adult_2=А мне летать охота
+
+name_monster_maulch_adult=Мульча
+bio_monster_maulch_adult=Maulch bio
+
+name_monsterYoung_flootfly=Мухофлейт
+bio_monsterYoung_flootfly=Young Flootfly bio
+
+name_monsterYoung_theremind=Терменум
+bio_monsterYoung_theremind=Young Theremind bio
+
+name_monsterYoung_fluoress=Флуоресс
+bio_monsterYoung_fluoress=Young Fluoress bio
+
+name_monsterYoung_clackula=Цокула
+bio_monsterYoung_clackula=Clackula children are unlike most young monsters, as they are just as asocial and timid as their adult counterparts. It takes a lot of conversation to get a clackula tot to open up. However, with enough patience and dedication, even the most closed-off clackula can be brought out of its shell! Baby clackula often have a penchant for dancing about in their spare time, and the more outgoing of the bunch will even attempt to sweep an unknowing fluoress or candelavra off their feet in the most spectacular of fashion! Though, more often than not, one of their rogue hand-mouths finds a way to snap at their dance partner, providing a suitable explanation as to why most clackula don’t attempt stunts like that a second time.
+
+
+name_monsterYoung_osstax=Столпкости
+bio_monsterYoung_osstax=It’s well-known that Osstax begin their lives as a few individuals who join together later in their life. This normally takes many, many years, as they need to fit together perfectly in order to become a full Osstax, but for the few individuals that find their perfect match early on, you get a scene like this one! Osstax Pebblets, despite being generally sedentary, are able to come up with all sorts of plans for all sorts of trouble. They’re easily able to plot with the other members of their stak, and use this extra doubled brainpower to be doubly unpredictable. You know what they say, two heads are always better than one!
+
+name_monsterYoung_brump=Брамп
+bio_monsterYoung_brump=Those versed in monstrology are well aware of the Brump's... unique physical characteristics. Being made of clay by a lonely wubbox, one wouldn't expect there to be a juvenile form as seen on Floating City, but this little Brumplet not only proves otherwise, it shows that even the slimiest of wublins can be turned cute! Not yet used to their fwoggy feet, Brumplets nonetheless attempt to spend their time ambling about the floating city. Any forward-thinking monster handler will be sure to keep them far away from any cliffs, as to avoid any sort of airborne monster rescue mission!
+
+
+name_monsterYoung_oaktopus=Осьмидуб
+bio_monsterYoung_oaktopus=Young Oaktopus bio
+
+name_monsterYoung_yool=Йоле
+bio_monsterYoung_yool=No-one’s better at festive spirit than the Yool! While a mature Yool uses its migratory nature to take a break during the off-season, Yool calves will treat all day every day as if it’s the 12 days of yay, decking the halls and placing presents everywhere it goes. Though, their enthusiasm combined with delicate props means that their yaytide surprises dont often go to plan, leading to startled monsters and broken ornaments. Thank goodness the bells on their antlers give away their location, it’s hard to imagine the types of trouble they’d get into without!
+
+
+name_monsterYoung_jeeode=Геода
+bio_monsterYoung_jeeode=While the adult Jeeode is renowned for its conflict resolution skills, babies aren’t usually known for their foresight. Jeeode tufflings are immature, and often hold themself to a higher standard they can’t be expected to achieve at such a young age, often leading to a lot of misunderstandings and false judgements. While this pursuit is what would eventually hone their impeccable impartiality, any good friend will try and calm them down before they get too deep in their own head. After all, communication is an important part of any relationship, so being crystal clear is especially appreciated!
+
+
+name_monsterYoung_stogg=Стегобака
+bio_monsterYoung_stogg=Young Stogg bio
+
+name_monsterYoung_schmoochle=Поцелщики
+bio_monsterYoung_schmoochle=Young Schmoochle bio
+
+name_monster_stone_1=Дерево Неуверен
+bio_monster_stone_1=Knottsurr tree bio
+
+name_monster_stone_2=Бай
+bio_monster_stone_2=Bay bio
+costume_monster_stone_2_2=Турецкий Посол
+
+name_monster_stone_3=Сосуд Дууш
+bio_monster_stone_3=It's pronounced "souls"
+
+name_monster_stone_4=БуУуу
+bio_monster_stone_4=BoOoo bio
+costume_monster_stone_4_2=Rootithumpie
+
+name_monster_stone_5=Гора Туцпик
+bio_monster_stone_5=Mount Tuzzpikk bio
+
+name_monster_gumtromp_adult=Шармелад
+bio_monster_gumtromp_adult=Gumtromp bio
+
+name_monster_keytrus_adult=Клави-син
+bio_monster_keytrus_adult=Keytrus bio
+
+name_monster_koodahcane_adult=Тростниконёк
+bio_monster_koodahcane_adult=Koodahcane bio
+
+name_monster_marshflamo_adult=Зефирожог
+bio_monster_marshflamo_adult=Marshflamo bio
+
+name_monster_choccosour_adult=Шокозавр
+bio_monster_choccosour_adult=Choccosour bio
+
+name_monster_jawbreaker_adult=Зубодробильшик
+bio_monster_jawbreaker_adult=Jawbreaker bio
+
+name_monster_claramel_adult=Кларамель
+bio_monster_claramel_adult=Claramel bio
+
+name_monster_cakehorn_adult=Торторог
+bio_monster_cakehorn_adult=Cakehorn bio
+
+name_undof_monster_noggin=Барабамень
+bio_undof_monster_noggin=Noggin bio
+costume_undof_monster_noggin_2=
+
+name_undof_monster_toejammer=Палезатор
+bio_undof_monster_toejammer=Toe Jammer bio
+costume_undof_monster_toejammer_2=Socks of Splendor
+
+name_undof_monster_kayna=Лаватёка
+bio_undof_monster_kayna=I’m Kanye
+
+name_undof_monster_jamboree=Джем Всборе
+bio_undof_monster_jamboree=Jam boree bio
+
+name_undof_monster_thrumble=Напевец
+bio_undof_monster_thrumble=Thrumble bio
+
+name_undof_monster_stogg=Стегобака
+bio_undof_monster_stogg=Stogg bio
+
+name_undof_monster_phangler=Фанглер
+bio_undof_monster_phangler=I SING
+
+name_undof_monster_fwog=Лягашка
+bio_undof_monster_fwog=wiggle
+
+
+-----decos
+name_deco_jar=Запасные части
+bio_deco_jar=Spare parts bio
+
+name_deco_jugler=Тюльпан Жонглер
+bio_deco_jugler=Juggle tulip bio
+
+name_deco_bucket=Ведро рогоза
+bio_deco_bucket=Bucket-o-cattail bio
+
+name_deco_upside-tree=Дерево Опроягод
+bio_deco_upside-tree=Capsize berry tree bio
+
+name_monster_dancer=Танцор
+bio_monster_dancer=The dancer is surrounded by some strange things. The strangest and, perhaps, the creepiest thing is......how.... are you reading this?\nThis should not be available to a common player.....
+
+name_monster_cursed_adult=Штука...
+bio_monster_cursed_adult=Ничесе! Ты как это читаешь? Если ты не тестер этой игры, то я понятия не имею, как у тебя эта ... штука появилась на острове. Ну что ж! \nЭто просто тестовая штукенция, которую я создал для проверки. Но кажись сделаю из него декорацию. Воде столба какого-то
+
+name_deco_baloony=Балуни
+bio_deco_baloony=Иногда его называют "другозаменителем". Одинокие монстры приходят к Балуни в любое время суток и делятся с ним своими весёлыми и грустными историями. Раньше наш резиновый «дружок» свободно летал по миру монстров, но однажды застрял меж двух камней и теперь он безмятежно качается из стороны в сторону. Кто создал Балуни, уже никто и не знает, но мы помним что создатель похож на белый шар с ножками.
+
+name_deco_heart_tree=Дерево Кровоцвет
+bio_deco_heart_tree=Хорошо ... Я видел много отвратительных вещей из Земли органов, но это пик мерзости! Типа, что это блин такое!? Это просто ... ХММФ! Мне нужно в туалет ... Думаю, меня вырвет ...
+
+name_deco_tlTotem=T.L-Тотем
+bio_deco_tlTotem=T.L-Totem bio
+
+name_deco_flowers=Глазоцветы
+bio_deco_flowers=Floweyes bio
+
+name_deco_dragoon=Сосуд Градуны
+bio_deco_dragoon=Gradoon vessel bio
+
+name_deco_tongue_tree=Ельзык
+bio_deco_tongue_tree=Tung-yucca bio
+
+-----structures
+name_struc_breeding=Здание Разведения
+bio_struc_breeding=Breeding structure bio
+
+name_struc_builder=Амальгаматор
+bio_struc_builder=The Amalgamator bio
+
+name_struc_nursery=Питомник
+bio_struc_nursery=Nursery bio
+
+-----islands
+name_island_Swamp=Вечнозеленое болото
+bio_island_Swamp=Evergreen Marsh bio
+
+name_island_City=Летучий город
+bio_island_City=Floating City bio
+
+name_island_Seasonal=Сезонный конгломерат
+bio_island_Seasonal=Seasonal conglomerate bio
+
+name_island_Lullaby=Безмятежная колыбель
+bio_island_Lullaby=Serene Cradle
+
+name_island_Organ=Земля органов
+bio_island_Organ=Terra of Organs bio
+
+name_island_Walrus=Моржовые пещеры
+bio_island_Walrus=Walrus Caves bio
+
+name_island_Farm=Ферма на плаву
+bio_island_Farm=Suspended farm bio
+
+name_island_unknown=???
+bio_island_unknown=Вы еще не открыли этот остров. Возможно он будет доступен позже.
+
+-----tasks
+task_breed_monster=Выведите и разместите "<entity>".
+task_buy_monster=Купите и разместите "<entity>".
+task_go_to_level=Достигните <level> уровня.
+task_unlock_island=Откройте <island>.
+task_feed_monster=Накормите монстра до уровня <level>.
+task_collect_money=Сэкономьте до <amount> монет.
+task_clear_obstacles=Очистите <amount> "<obstacle>".
+
+-----popups
+btn_yes=Да
+btn_no=Нет
+btn_ok=Ок
+
+str_popup_send=Вы уверены, что хотите отправить "<monster_name>" на <island>?
+str_popup_send_tickets=У вас недостаточно билетов для отправки "<monster_name>" на <island>.
+str_popup_send_level="<monster_name>" должен достичь уровня <required_level> для отправки на <island>.
+str_popup_not_enough_currency=У вас недостаточно "<item>"! \nИграйте в игру и соберите больше "<item>", чтобы завершить транзакцию.
+str_popup_sell=Вы уверены, что хотите продать "<monster_name>" за <amount> "<item>"?
+str_popup_limit=Количество этого продукта не может превышать <entity_max>.
+
+str_airship=Эуфонический Дирижабль
+str_airship_arrival=Дирижабль прибудет через\n<airship_time>
+str_airship_retrieval=Дирижабль вернется через\n<airship_time>
+
+str_item_tickets=Билеты
+
+str_loading_error=При загрузке данных игры произошла ошибка. Проверьте подключение к Интернету и повторите попытку. \nОшибка: <error>
+str_net_error=При загрузке объектов произошла ошибка. Чтобы попытаться загрузить ресурсы еще раз, необходимо повторно открыть игру.\nОшибка: <error>
+
+-----Dialogue
+di_fur_1=Hello! Welcome to My Singing Monsters: The Lost Landscapes!
+di_fur_2=Please note that this game is not official. And that nothing here is canon to the actual "My Singing Monsters" game. Thank you.
+di_fur_3=Let's begin with getting a monster!
+di_fur_4=Can you hear that? The noggin is tapping its noggin to create an unusual sound! Let's see whom else we can get.
+di_fur_5=This is groovy! How about a snack? Let's feed our monsters some food.
+di_fur_6=Every time you feed your monster, its level goes up. Monsters above level 4 can be bred.
+di_fur_7=Let's try breeding new monsters to add to the song.
+di_fur_8=Use diamonds to speed up the breeding process.
+di_fur_9=Well done!\nOoh, look! A Diamond! They can appear anywhere and be picked up for your use.
+di_fur_10=Not bad. You are getting the hang of it. Keep breeding and caring for your monsters and don't forget to check the tasks. Good luck!
