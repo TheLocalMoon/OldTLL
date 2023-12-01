@@ -1,5 +1,0 @@
-loading https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/Loading_release3.png
-en https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/en.txt
-nl https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/nl.txt
-pt https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/pt.txt
-ru-non https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/ru.txt
