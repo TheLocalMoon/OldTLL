@@ -1,5 +1,5 @@
-loading https://drive.google.com/u/0/uc?id=1SZ3rfzTnlFqOJsKvyC-1cjD98dk6T2U_&export=download
-en https://drive.google.com/u/0/uc?id=1TAqSF8nCHQF52NwxsSosF1XGKz_8piqm&export=download
-nl https://drive.google.com/u/0/uc?id=1n-8yKCrEfXjrY3vzMhJ3ixutL4yMDOuJ&export=download
-pt https://drive.google.com/u/0/uc?id=1r8JA7U6_bTR43GyQF88jl97knqm2OatH&export=download
-ru-non https://drive.google.com/u/0/uc?id=1HbfXr3-XOx_BgGhB76vXqoe2-sXgZxkw&export=download
+loading https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/Loading_release3.png
+en https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/en.txt
+nl https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/nl.txt
+pt https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/pt.txt
+ru-non https://raw.githubusercontent.com/TheLocalMoon/OldTLL/main/ru.txt
